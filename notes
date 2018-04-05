@@ -1,0 +1,57 @@
+--How to read in csv file
+
+ingredient class with properties{
+    ID,
+    Name
+}
+
+DB with recipes for items{
+    name: {{'ingredient': amount), ('ingredient', amount)},
+            {'ingredient': amount), ('ingredient', amount)}},
+    name: {{'ingredient': amount), ('ingredient', amount)},
+           {'ingredient': amount), ('ingredient', amount)},
+           etc.
+}
+
+Take in recipe list from DB (table as parameter?){
+    convert DB to python library (or is a list better?)
+    return list/dict
+}
+
+Take in pmix(csv file?){
+    pmix_dict = [name: number_sold]
+
+    read in file to pmix_dict
+
+    return pmix_dict
+}
+
+Convert from pmix_list to product_list function (pmix_dict, recipes_dict){
+    product_dict = [name: amount]
+
+
+    for item in pmix_dict:
+        product_list = call method to convert recipe to product
+        (pass in item)<method returns list of products in recipe and amt>
+
+        for product in product_list:
+            if product not in product_dict:
+                product_dict.add(product:amt)
+            else:
+                product_dict[product] += product[1]
+                
+
+    for ingredient in recipe["item.name"]:
+
+        
+Convert from ounces to pounds
+
+Be able to look at recipes
+Be able to create a new recipe table
+Be able to add new recipes to table
+Be able to look at ingredients
+Be able to create a new ingredient table
+Be able to add new ingredients to table
+
+
+User functionality?
