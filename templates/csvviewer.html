@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% block content %}
+
+<table>
+    <tr>
+      <th>Product</th>
+      <th>Quantity</th>
+      <th>Add Ingredient</th>
+    </tr>
+    {% for product in product_list %}
+    <tr>
+        <th>{{product[0]}}</th>
+        <th>{{product[1]}}</th>
+        <th>
+            <form method='post'>
+                <th>
+                    <input type="text" name="ingredient" />
+                </th>
+                <th>
+                    <input type="text" name="amount" />
+                </th>
+                <th><input type="submit" value='Add ingredient' /></th>
+            </form>
+        </th>
+    </tr>
+    {% endfor %}
+</table>
+
+
+
+{% endblock %}
