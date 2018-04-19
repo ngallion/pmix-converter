@@ -1,21 +1,19 @@
 --How to read in csv file
 
-ingredient class with properties{
+ingredient model{
     ID,
     Name
 }
 
-DB with recipes for items{
-    name: {{'ingredient': amount), ('ingredient', amount)},
-            {'ingredient': amount), ('ingredient', amount)}},
-    name: {{'ingredient': amount), ('ingredient', amount)},
-           {'ingredient': amount), ('ingredient', amount)},
-           etc.
+menu item model{
+    ID,
+    Name,
+    size multiplier?
 }
 
-Take in recipe list from DB (table as parameter?){
-    convert DB to python library (or is a list better?)
-    return list/dict
+many-to-many recipe table model{
+    Menu item Id,
+    ingredient id
 }
 
 Take in pmix(csv file?){

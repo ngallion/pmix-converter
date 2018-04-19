@@ -3,23 +3,37 @@
 
 <table>
     <tr>
-      <th>Product</th>
-      <th>Quantity</th>
-      <th>Add Ingredient</th>
+        <p align="right">
+            <form action='/search' method='post'>
+                <input type="text" name="search" />
+                <input type="submit" value="Search" />
+            </form>
+        </p>
+    </tr>
+    <tr>
+        <th>Product</th>
+        <th>Quantity</th>
+        <th>
+            <th>Add Ingredient</th>
+            <th>Add Quantity</th>
+            <th></th>
+        </th>
     </tr>
     {% for product in product_list %}
     <tr>
         <th>{{product[0]}}</th>
         <th>{{product[1]}}</th>
         <th>
-            <form method='post'>
+            <form action='/add-ingredient' method='post'>
+                <input type="hidden" name="recipe" value="{{product[0]}}">
                 <th>
                     <input type="text" name="ingredient" />
                 </th>
                 <th>
-                    <input type="text" name="amount" />
+                    <input type="text" name="quantity" />
                 </th>
                 <th><input type="submit" value='Add ingredient' /></th>
+                
             </form>
         </th>
     </tr>
