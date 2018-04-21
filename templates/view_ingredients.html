@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block content %}
+
+<h3>{{recipe}}</h3>
+
+<table>
+    <tr>
+        <th>Ingredient</th>
+        <th>Quantity</th>
+        <th></th>
+    </tr>
+    
+    {% for ingredient,quantity in ingredient_list %}
+    <tr>
+        <th>{{ingredient}}</th>
+        <th>{{quantity}}</th>
+        <th>
+            <form action='/delete-ingredient' method='post'>
+                <input type="submit" value="Delete ingredient" />
+            </form>
+        </th>
+    </tr>
+    {% endfor %}
+</table>
+
+{% endblock %}

@@ -63,21 +63,48 @@ def csvviewer():
 def search():
     search = request.form['search']
 
+    
     filtered_product_list = []
     
     for product in product_list:
         if product[0].find(search) != -1:
             filtered_product_list.append(product)
     
+    session['search'] = filtered_product_list
+
     return render_template('csvviewer.html',product_list=filtered_product_list)
  
+@app.route('/view_ingredients')
+def view_ingredients():
+    recipe_name = request.args.get('recipe')
 
+    recipe = Recipe.query.filter_by(name=recipe_name).first()
+
+    if not recipe:
+        flash("Recipe does not contain any ingredients")
+        if session['search']:
+            return render_template('csvviewer.html',product_list=session['search'])
+        else:
+            return render_template('csvviewer.html', product_list=product_list)
+
+    ingredient_list = []
+
+    association_list = Association.query.filter_by(recipe_id=recipe.id).all()
+
+    for association in association_list:
+        ingredient = Ingredient.query.filter_by(id=association.ingredient_id).first()
+        ingredient_list.append((ingredient.name, association.quantity))
+    
+    if ingredient_list != []:
+        return render_template('view_ingredients.html', ingredient_list=ingredient_list, recipe=recipe_name)
+    else:
+        return render_template('view_ingredients.html', recipe_name="No ingredients added :(")
 
 
 @app.route('/add-ingredient', methods=['POST'])
 def add_ingredient():
-    ingredient = request.form['ingredient']
-    recipe = request.form['recipe']
+    ingredient = request.form['ingredient'].lower()
+    recipe = request.form['recipe'].lower()
     
     existing_recipe = Recipe.query.filter_by(name=recipe).first()
     if not existing_recipe:
@@ -106,7 +133,10 @@ def add_ingredient():
     else:
         flash("recipe already contains this ingredient")
 
-    return redirect('/csvviewer')
+    if session['search'] != []:
+        return render_template('csvviewer.html', product_list=session['search'])
+    else:
+        return render_template('csvviewer.html', product_list=product_list)
 
 product_list = []
 pmix = "pmix.csv"

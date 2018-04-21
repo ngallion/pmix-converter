@@ -21,7 +21,7 @@
     </tr>
     {% for product in product_list %}
     <tr>
-        <th>{{product[0]}}</th>
+        <th><a href="/view_ingredients?recipe={{product[0]}}">{{product[0]}}</a></th>
         <th>{{product[1]}}</th>
         <th>
             <form action='/add-ingredient' method='post'>

@@ -1,0 +1,21 @@
+body{
+    font-family: 'verdana';
+}
+.error{
+    color:red;
+}
+
+.logo{
+    margin: 10px auto;
+}
+
+.logo img{
+    width: 200px;
+    margin: auto;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}

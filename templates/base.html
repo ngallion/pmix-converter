@@ -2,6 +2,9 @@
 <html>
     <head>
         <title>{{title}}</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
+        <link rel="stylesheet" href="{{url_for('static',filename='styles/main.css')}}">
         <style>
             .error{
                 color:red;
@@ -9,6 +12,9 @@
         </style>
     </head>
     <body>
+        <div class="logo">
+            <img src="{{url_for('static',filename='images/wwlogo.jpg')}}" class="center">
+        </div>
         <nav>
         </nav>
         {% with messages = get_flashed_messages(with_categories=True) %}
