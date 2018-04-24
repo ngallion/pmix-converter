@@ -1,1269 +1,158 @@
 Location,Item,Sale Department,Master Sale Department,DOB,Quantity,Net Amount,Gross Amount,Item Number
-317 Marketplace,"1000 Island","Food","FOOD",2/26/2018,1,0,0,1595
-317 Marketplace,"16oz Shake","Beverages","NA BEVERAGE",2/26/2018,13,42.25,42.25,342
-317 Marketplace,"16oz Shake - 16oz Chocolate","Beverages","NA BEVERAGE",2/26/2018,5,0,0,0
-317 Marketplace,"16oz Shake - 16oz Oreo","Beverages","NA BEVERAGE",2/26/2018,3,0,0,0
-317 Marketplace,"16oz Shake - 16oz Strawberry","Beverages","NA BEVERAGE",2/26/2018,4,0,0,0
-317 Marketplace,"16oz Shake - 16oz Vanilla","Beverages","NA BEVERAGE",2/26/2018,1,0,0,0
-317 Marketplace,"22oz Fountain Drink","Beverages","NA BEVERAGE",2/26/2018,37,70,74,251
-317 Marketplace,"32oz  Fountain Drink","Beverages","NA BEVERAGE",2/26/2018,15,27,33.75,1752
-317 Marketplace,"32oz Refill","Beverages","NA BEVERAGE",2/26/2018,4,7,7,644
-317 Marketplace,"American","Food","FOOD",2/26/2018,2,0,0,1460
-317 Marketplace,"Balsamic Vinagrette","Food","FOOD",2/26/2018,1,0,0,1567
-317 Marketplace,"Banana Peppers","Food","FOOD",2/26/2018,8,0,0,1666
-317 Marketplace,"Bell Peppers","Food","FOOD",2/26/2018,3,0,0,1665
-317 Marketplace,"Black Olives","Food","FOOD",2/26/2018,5,0,0,1670
-317 Marketplace,"Blue Cheese","Food","FOOD",2/26/2018,2,0,0,1462
-317 Marketplace,"Bottled Water","Beverages","NA BEVERAGE",2/26/2018,1,1.75,1.75,1760
-317 Marketplace,"Buffalo","Food","FOOD",2/26/2018,1,0,0,1570
-317 Marketplace,"Caramel Onion","Food","FOOD",2/26/2018,1,0,0,1615
-317 Marketplace,"Cheddar","Food","FOOD",2/26/2018,4,0,0,1470
-317 Marketplace,"Cheese Pizza","Food","FOOD",2/26/2018,1,5,5,1345
-317 Marketplace,"Chipotle Mayo","Food","FOOD",2/26/2018,1,0,0,1547
-317 Marketplace,"Chips","Food","FOOD",2/26/2018,68,80.63,85,1425
-317 Marketplace,"Choc Milk","Beverages","NA BEVERAGE",2/26/2018,1,0,0,1365
-317 Marketplace,"Cobb Salad Wrap","Food","FOOD",2/26/2018,4,30,30,2324
-317 Marketplace,"Courtney's Cake","Food","FOOD",2/26/2018,4,7.8,7.8,60001
-317 Marketplace,"Courtney's Cookie","Food","FOOD",2/26/2018,5,6,7.5,1447
-317 Marketplace,"Crispy Strings","Food","FOOD",2/26/2018,1,0,0,1625
-317 Marketplace,"Cucumbers","Food","FOOD",2/26/2018,4,0,0,1650
-317 Marketplace,"Dozen Chips","Catering","CATERING",2/26/2018,1,15,15,1870
-317 Marketplace,"Dozen Cookies","Catering","CATERING",2/26/2018,1,15,15,1507
-317 Marketplace,"Drink","Beverages","NA BEVERAGE",2/26/2018,10,0,0,1746
-317 Marketplace,"Drink - 22oz Fountain Drink","Beverages","NA BEVERAGE",2/26/2018,7,9,14,0
-317 Marketplace,"Drink - 32oz  Fountain Drink","Beverages","NA BEVERAGE",2/26/2018,3,6.75,6.75,0
-317 Marketplace,"Garlic","Food","FOOD",2/26/2018,2,0,0,1725
-317 Marketplace,"Gyro Favorite","Food","FOOD",2/26/2018,4,31,31,386
-317 Marketplace,"Ham","Food","FOOD",2/26/2018,1,0,0,145
-317 Marketplace,"Honey Mustard","Food","FOOD",2/26/2018,1,0,0,1530
-317 Marketplace,"Hotwich","Food","FOOD",2/26/2018,14,0,0,1731
-317 Marketplace,"House Chips","Food","FOOD",2/26/2018,3,0,0,1981
-317 Marketplace,"Italian Club","Food","FOOD",2/26/2018,1,7.75,7.75,2314
-317 Marketplace,"Jalapenos","Food","FOOD",2/26/2018,1,0,0,1660
-317 Marketplace,"Juice","Beverages","NA BEVERAGE",2/26/2018,1,0,0,1370
-317 Marketplace,"Kidswich","Food","FOOD",2/26/2018,2,7.5,10,1325
-317 Marketplace,"Lettuce","Food","FOOD",2/26/2018,9,0,0,1630
-317 Marketplace,"Lettucewich Chicken","Food","FOOD",2/26/2018,1,6,6,9551
-317 Marketplace,"Lettucewich Chicken - REG-Bacon*","Food","FOOD",2/26/2018,1,1,1,0
-317 Marketplace,"Lettucewich Turkey","Food","FOOD",2/26/2018,1,6,6,9601
-317 Marketplace,"Lettucewich Turkey - REG-Avocado*","Food","FOOD",2/26/2018,1,1,1,0
-317 Marketplace,"Lettucewich Turkey - REG-Bacon*","Food","FOOD",2/26/2018,1,1,1,0
-317 Marketplace,"Light Mayo","Food","FOOD",2/26/2018,1,0,0,1545
-317 Marketplace,"LRG Black Bean Patty","Food","FOOD",2/26/2018,1,8.5,8.5,70
-317 Marketplace,"LRG Buffalo Chicken","Food","FOOD",2/26/2018,6,51,51,47
-317 Marketplace,"LRG Chicken","Food","FOOD",2/26/2018,3,25.5,25.5,46
-317 Marketplace,"LRG Chicken - LRG-Avocado","Food","FOOD",2/26/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Chicken - LRG-Bacon","Food","FOOD",2/26/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Chicken Pesto","Food","FOOD",2/26/2018,1,0.99,8.5,80
-317 Marketplace,"LRG Club","Food","FOOD",2/26/2018,2,17,17,7
-317 Marketplace,"LRG Grinder","Food","FOOD",2/26/2018,3,25.5,25.5,76
-317 Marketplace,"LRG Ham","Food","FOOD",2/26/2018,1,8.5,8.5,26
-317 Marketplace,"LRG Ham - LRG-Double Meat","Food","FOOD",2/26/2018,1,3,3,0
-317 Marketplace,"LRG Roast Beef","Food","FOOD",2/26/2018,1,8.5,8.5,36
-317 Marketplace,"LRG Roast Beef - LRG-Double Cheese","Food","FOOD",2/26/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Roast Beef - LRG-Double Meat","Food","FOOD",2/26/2018,1,3,3,0
-317 Marketplace,"LRG Tuna Salad","Food","FOOD",2/26/2018,1,2.5,8.5,56
-317 Marketplace,"LRG Turkey","Food","FOOD",2/26/2018,7,53.5,59.5,16
-317 Marketplace,"LRG Turkey - LRG-Avocado","Food","FOOD",2/26/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Turkey - LRG-Double Meat","Food","FOOD",2/26/2018,1,3,3,0
-317 Marketplace,"LRG Turkeywich","Food","FOOD",2/26/2018,1,8.5,8.5,19
-317 Marketplace,"LRG Turkeywich - LRG-Double Meat","Food","FOOD",2/26/2018,1,3,3,0
-317 Marketplace,"LRG Wicked","Food","FOOD",2/26/2018,4,40,40,99
-317 Marketplace,"Marinara","Food","FOOD",2/26/2018,1,0,0,1575
-317 Marketplace,"Meatball Grinder","Food","FOOD",2/26/2018,6,38.75,46.5,382
-317 Marketplace,"Mozzarella","Food","FOOD",2/26/2018,2,0,0,1485
-317 Marketplace,"Oil","Food","FOOD",2/26/2018,3,0,0,1695
-317 Marketplace,"Olive Salad","Food","FOOD",2/26/2018,1,0,0,1675
-317 Marketplace,"Oregano","Food","FOOD",2/26/2018,6,0,0,1705
-317 Marketplace,"Pepper","Food","FOOD",2/26/2018,7,0,0,1720
-317 Marketplace,"Pepper Jack","Food","FOOD",2/26/2018,4,0,0,1480
-317 Marketplace,"Pesto","Food","FOOD",2/26/2018,2,0,0,1580
-317 Marketplace,"Philly Cheesesteak","Food","FOOD",2/26/2018,3,17.25,23.25,392
-317 Marketplace,"Philly Cheesesteak - REG-Avocado","Food","FOOD",2/26/2018,1,1,1,0
-317 Marketplace,"Pickles","Food","FOOD",2/26/2018,11,0,0,1640
-317 Marketplace,"Provolone","Food","FOOD",2/26/2018,4,0,0,1475
-317 Marketplace,"PX Loyalty","Retail","RETAIL",2/26/2018,56,0,0,80020
-317 Marketplace,"PX Point Accrual","Retail","RETAIL",2/26/2018,44,0,0,80010
-317 Marketplace,"Ranch","Food","FOOD",2/26/2018,3,0,0,1600
-317 Marketplace,"Red Onions","Food","FOOD",2/26/2018,2,0,0,1620
-317 Marketplace,"REG Black Bean Patty","Food","FOOD",2/26/2018,2,12,12,325
-317 Marketplace,"REG Black Bean Patty - REG-Avocado","Food","FOOD",2/26/2018,1,1,1,0
-317 Marketplace,"REG Buff Chicken","Food","FOOD",2/26/2018,5,30,30,230
-317 Marketplace,"REG Buff Chicken - REG-Avocado","Food","FOOD",2/26/2018,1,1,1,0
-317 Marketplace,"REG Caprese","Food","FOOD",2/26/2018,1,6,6,305
-317 Marketplace,"REG Chicken","Food","FOOD",2/26/2018,4,24,24,225
-317 Marketplace,"REG Chicken - REG-Avocado","Food","FOOD",2/26/2018,1,1,1,0
-317 Marketplace,"REG Chicken - REG-Bacon","Food","FOOD",2/26/2018,1,1,1,0
-317 Marketplace,"REG Chicken Cordon Bleu","Food","FOOD",2/26/2018,2,12,12,245
-317 Marketplace,"REG Chicken Pesto","Food","FOOD",2/26/2018,2,12,12,365
-317 Marketplace,"REG Chicken Salad","Food","FOOD",2/26/2018,1,6,6,395
-317 Marketplace,"REG Club","Food","FOOD",2/26/2018,7,42,42,430
-317 Marketplace,"REG Corned Beef","Food","FOOD",2/26/2018,2,9,12,190
-317 Marketplace,"REG Corned Beef - REG-Double Meat","Food","FOOD",2/26/2018,1,1.5,2,0
-317 Marketplace,"REG Egg Salad","Food","FOOD",2/26/2018,1,6,6,390
-317 Marketplace,"REG Grinder","Food","FOOD",2/26/2018,4,24,24,345
-317 Marketplace,"REG Ham","Food","FOOD",2/26/2018,3,18,18,145
-317 Marketplace,"REG Meatball","Food","FOOD",2/26/2018,2,12,12,350
-317 Marketplace,"REG Muffuletta","Food","FOOD",2/26/2018,2,12,12,355
-317 Marketplace,"REG Pepperoni Pizzawich","Food","FOOD",2/26/2018,3,12,18,360
-317 Marketplace,"REG Roast Beef","Food","FOOD",2/26/2018,2,12,12,185
-317 Marketplace,"REG Tuna Salad","Food","FOOD",2/26/2018,2,9,12,265
-317 Marketplace,"REG Turkey","Food","FOOD",2/26/2018,25,138.86,150,105
-317 Marketplace,"REG Turkey - REG-Avocado","Food","FOOD",2/26/2018,3,3,3,0
-317 Marketplace,"REG Turkey - REG-Bacon","Food","FOOD",2/26/2018,3,2.14,3,0
-317 Marketplace,"REG Turkey - REG-Double Cheese","Food","FOOD",2/26/2018,1,1,1,0
-317 Marketplace,"REG Turkey - REG-Double Meat","Food","FOOD",2/26/2018,2,4,4,0
-317 Marketplace,"REG Turkey - REG-Sliced Egg","Food","FOOD",2/26/2018,1,1,1,0
-317 Marketplace,"REG Turkeywich","Food","FOOD",2/26/2018,2,6,12,120
-317 Marketplace,"REG Wicked","Food","FOOD",2/26/2018,8,56,56,98
-317 Marketplace,"Regular Mayo","Food","FOOD",2/26/2018,5,0,0,1540
-317 Marketplace,"Roast Beef","Food","FOOD",2/26/2018,1,0,0,185
-317 Marketplace,"Roasted Red Peppers","Food","FOOD",2/26/2018,1,0,0,0
-317 Marketplace,"Salt","Food","FOOD",2/26/2018,8,0,0,1715
-317 Marketplace,"Salt & Vinegar Kettle","Food","FOOD",2/26/2018,2,0,0,1988
-317 Marketplace,"Sauerkraut","Food","FOOD",2/26/2018,1,0,0,1685
-317 Marketplace,"SLD Black Bean Patty","Food","FOOD",2/26/2018,1,1,7,1145
-317 Marketplace,"SLD Chicken Pesto","Food","FOOD",2/26/2018,1,7,7,1185
-317 Marketplace,"SLD Turkey","Food","FOOD",2/26/2018,1,7,7,925
-317 Marketplace,"SLD Turkey - REG-Sliced Egg","Food","FOOD",2/26/2018,1,1,1,0
-317 Marketplace,"Soda","Beverages","NA BEVERAGE",2/26/2018,1,0,0,1375
-317 Marketplace,"Spicy Ranch","Food","FOOD",2/26/2018,1,0,0,1601
-317 Marketplace,"Spinach","Food","FOOD",2/26/2018,2,0,0,1656
-317 Marketplace,"SUP Chicken","Food","FOOD",2/26/2018,3,35.25,35.25,635
-317 Marketplace,"SUP Club","Food","FOOD",2/26/2018,1,11.75,11.75,840
-317 Marketplace,"SUP French Dip","Food","FOOD",2/26/2018,1,11.75,11.75,855
-317 Marketplace,"SUP Grinder","Food","FOOD",2/26/2018,1,11.75,11.75,755
-317 Marketplace,"SUP Turkey","Food","FOOD",2/26/2018,2,23.5,23.5,515
-317 Marketplace,"SUP Turkey - SUP-Bacon","Food","FOOD",2/26/2018,1,2,2,0
-317 Marketplace,"SUP Wicked","Food","FOOD",2/26/2018,3,41.25,41.25,507
-317 Marketplace,"Superfood Wich","Food","FOOD",2/26/2018,2,15.5,15.5,2312
-317 Marketplace,"Swiss","Food","FOOD",2/26/2018,4,0,0,1465
-317 Marketplace,"The Reuben","Food","FOOD",2/26/2018,7,54.25,54.25,388
-317 Marketplace,"Tomato","Food","FOOD",2/26/2018,9,0,0,1635
-317 Marketplace,"Traditional Tray Regular","Catering","CATERING",2/26/2018,1,70,70,7010
-317 Marketplace,"Tzatziki","Food","FOOD",2/26/2018,1,0,0,1602
-317 Marketplace,"Ultimate BLT","Food","FOOD",2/26/2018,1,7.75,7.75,411
-317 Marketplace,"Vinegar","Food","FOOD",2/26/2018,3,0,0,1700
-317 Marketplace,"Wheat Bread","Food","FOOD",2/26/2018,5,0,0,1515
-317 Marketplace,"White Bread","Food","FOOD",2/26/2018,7,0,0,1510
-317 Marketplace,"Wrap Black Bean","Food","FOOD",2/26/2018,1,6,6,9153
-317 Marketplace,"Wrap Turkey","Food","FOOD",2/26/2018,3,18,18,9101
-317 Marketplace,"Wrap Turkey - REG-Double Meat","Food","FOOD",2/26/2018,1,2,2,0
-317 Marketplace,"Yellow Mustard","Food","FOOD",2/26/2018,1,0,0,1520
-317 Marketplace,"16oz Shake","Beverages","NA BEVERAGE",2/27/2018,6,19.5,19.5,342
-317 Marketplace,"16oz Shake - 16oz Chocolate","Beverages","NA BEVERAGE",2/27/2018,1,0,0,0
-317 Marketplace,"16oz Shake - 16oz Oreo","Beverages","NA BEVERAGE",2/27/2018,2,0,0,0
-317 Marketplace,"16oz Shake - 16oz Strawberry","Beverages","NA BEVERAGE",2/27/2018,2,0,0,0
-317 Marketplace,"16oz Shake - 16oz Vanilla","Beverages","NA BEVERAGE",2/27/2018,1,0,0,0
-317 Marketplace,"22oz Fountain Drink","Beverages","NA BEVERAGE",2/27/2018,27,40.3,54,251
-317 Marketplace,"32oz  Fountain Drink","Beverages","NA BEVERAGE",2/27/2018,13,29.25,29.25,1752
-317 Marketplace,"32oz Refill","Beverages","NA BEVERAGE",2/27/2018,3,5.25,5.25,644
-317 Marketplace,"32oz Shake","Beverages","NA BEVERAGE",2/27/2018,1,5.25,5.25,9002
-317 Marketplace,"32oz Shake - 32oz Chocolate","Beverages","NA BEVERAGE",2/27/2018,1,0,0,0
-317 Marketplace,"American","Food","FOOD",2/27/2018,1,0,0,1460
-317 Marketplace,"Avocado","Food","FOOD",2/27/2018,1,0,0,1415
-317 Marketplace,"Banana Peppers","Food","FOOD",2/27/2018,3,0,0,1666
-317 Marketplace,"Bell Peppers","Food","FOOD",2/27/2018,1,0,0,1665
-317 Marketplace,"Black Olives","Food","FOOD",2/27/2018,1,0,0,1670
-317 Marketplace,"Blue Cheese","Food","FOOD",2/27/2018,1,0,0,1462
-317 Marketplace,"Can Drink","Beverages","NA BEVERAGE",2/27/2018,2,3,3,1770
-317 Marketplace,"Cheddar","Food","FOOD",2/27/2018,1,0,0,1470
-317 Marketplace,"Chef Salad","Catering","CATERING",2/27/2018,1,65,65,7040
-317 Marketplace,"Chipotle Mayo","Food","FOOD",2/27/2018,1,0,0,1547
-317 Marketplace,"Chips","Food","FOOD",2/27/2018,99,109.37,123.75,1425
-317 Marketplace,"Choc Milk","Beverages","NA BEVERAGE",2/27/2018,1,0,0,1365
-317 Marketplace,"Chocolate Chip","Food","FOOD",2/27/2018,11,0,0,1436
-317 Marketplace,"Classic Box Lunch","Catering","CATERING",2/27/2018,11,93.5,93.5,7271
-317 Marketplace,"Cobb Salad Wrap","Food","FOOD",2/27/2018,3,22.5,22.5,2324
-317 Marketplace,"Coldwich","Food","FOOD",2/27/2018,4,0,0,1732
-317 Marketplace,"Courtney's Cake","Food","FOOD",2/27/2018,6,9.75,11.7,60001
-317 Marketplace,"Courtney's Cookie","Food","FOOD",2/27/2018,4,3,6,1447
-317 Marketplace,"Cranberry","Food","FOOD",2/27/2018,1,0,0,1684
-317 Marketplace,"Crispy Strings","Food","FOOD",2/27/2018,2,0,0,1625
-317 Marketplace,"CrushRed Pepp","Food","FOOD",2/27/2018,1,0,0,1730
-317 Marketplace,"Cucumbers","Food","FOOD",2/27/2018,2,0,0,1650
-317 Marketplace,"Deli Mustard","Food","FOOD",2/27/2018,1,0,0,1535
-317 Marketplace,"Doritos","Food","FOOD",2/27/2018,1,0,0,1984
-317 Marketplace,"Drink","Beverages","NA BEVERAGE",2/27/2018,38,0,0,1746
-317 Marketplace,"Drink - 22oz Fountain Drink","Beverages","NA BEVERAGE",2/27/2018,27,42,54,0
-317 Marketplace,"Drink - 32oz  Fountain Drink","Beverages","NA BEVERAGE",2/27/2018,8,15.75,18,0
-317 Marketplace,"Drink - 32oz Refill","Beverages","NA BEVERAGE",2/27/2018,3,5.25,5.25,0
-317 Marketplace,"Garlic","Food","FOOD",2/27/2018,1,0,0,1725
-317 Marketplace,"Grilled Cheese","Food","FOOD",2/27/2018,3,15,15,1335
-317 Marketplace,"Gyro Favorite","Food","FOOD",2/27/2018,4,31,31,386
-317 Marketplace,"Gyro Favorite - REG-Double Meat","Food","FOOD",2/27/2018,1,2,2,0
-317 Marketplace,"Ham","Food","FOOD",2/27/2018,1,0,0,145
-317 Marketplace,"Hot Pepper Mix","Food","FOOD",2/27/2018,1,0,0,1690
-317 Marketplace,"Hotwich","Food","FOOD",2/27/2018,9,0,0,1731
-317 Marketplace,"Italian Club","Food","FOOD",2/27/2018,7,52.81,54.25,2314
-317 Marketplace,"Italian Club - Make it a Large","Food","FOOD",2/27/2018,2,6,6,0
-317 Marketplace,"Jalapenos","Food","FOOD",2/27/2018,3,0,0,1660
-317 Marketplace,"Juice","Beverages","NA BEVERAGE",2/27/2018,1,0,0,1370
-317 Marketplace,"Kids Rollups","Food","FOOD",2/27/2018,1,5,5,1326
-317 Marketplace,"Lettuce","Food","FOOD",2/27/2018,9,0,0,1630
-317 Marketplace,"Lettucewich Black Bean","Food","FOOD",2/27/2018,1,6,6,9653
-317 Marketplace,"Lettucewich Caprese","Food","FOOD",2/27/2018,1,6,6,9652
-317 Marketplace,"Lettucewich Caprese - REG-Avocado*","Food","FOOD",2/27/2018,1,1,1,0
-317 Marketplace,"Lettucewich Chicken","Food","FOOD",2/27/2018,1,0,6,9551
-317 Marketplace,"Lettucewich Surf & Turf","Food","FOOD",2/27/2018,1,6,6,9853
-317 Marketplace,"Lettucewich Wicked","Food","FOOD",2/27/2018,2,13.5,13.5,9508
-317 Marketplace,"Lettucewich Wicked - REG-Double Meat*","Food","FOOD",2/27/2018,2,4,4,0
-317 Marketplace,"Light Mayo","Food","FOOD",2/27/2018,3,0,0,1545
-317 Marketplace,"LRG Black Bean Patty","Food","FOOD",2/27/2018,1,8.5,8.5,70
-317 Marketplace,"LRG Buffalo Chicken","Food","FOOD",2/27/2018,1,8.5,8.5,47
-317 Marketplace,"LRG Chicken","Food","FOOD",2/27/2018,2,17,17,46
-317 Marketplace,"LRG Chicken - LRG-Bacon","Food","FOOD",2/27/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Chicken Cordon Bleu","Food","FOOD",2/27/2018,1,8.5,8.5,50
-317 Marketplace,"LRG Chicken Cordon Bleu - LRG-Bacon","Food","FOOD",2/27/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Chicken Pesto","Food","FOOD",2/27/2018,1,8.5,8.5,80
-317 Marketplace,"LRG Chicken Salad","Food","FOOD",2/27/2018,1,2.13,8.5,88
-317 Marketplace,"LRG Club","Food","FOOD",2/27/2018,2,17,17,7
-317 Marketplace,"LRG Crab Salad","Food","FOOD",2/27/2018,1,8.5,8.5,57
-317 Marketplace,"LRG Egg Salad","Food","FOOD",2/27/2018,1,8.5,8.5,87
-317 Marketplace,"LRG French Dip","Food","FOOD",2/27/2018,4,34,34,10
-317 Marketplace,"LRG Grinder","Food","FOOD",2/27/2018,4,34,34,76
-317 Marketplace,"LRG Grinder - LRG-Bacon","Food","FOOD",2/27/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Ham","Food","FOOD",2/27/2018,4,0,0,26
-317 Marketplace,"LRG Ham - LRG-Bacon","Food","FOOD",2/27/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Meatball","Food","FOOD",2/27/2018,1,8.5,8.5,77
-317 Marketplace,"LRG Roast Beef","Food","FOOD",2/27/2018,1,2.5,8.5,36
-317 Marketplace,"LRG Thank You Turkey","Food","FOOD",2/27/2018,1,2.5,8.5,18
-317 Marketplace,"LRG The Avocado","Food","FOOD",2/27/2018,3,25.5,25.5,67
-317 Marketplace,"LRG Turkey","Food","FOOD",2/27/2018,7,59.5,59.5,16
-317 Marketplace,"LRG Turkey - LRG-Bacon","Food","FOOD",2/27/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Turkeywich","Food","FOOD",2/27/2018,1,8.5,8.5,19
-317 Marketplace,"LRG Turkeywich - LRG-Bacon","Food","FOOD",2/27/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Wicked","Food","FOOD",2/27/2018,1,10,10,99
-317 Marketplace,"Meatball Grinder","Food","FOOD",2/27/2018,1,7.75,7.75,382
-317 Marketplace,"Milk","Beverages","NA BEVERAGE",2/27/2018,2,0,0,1360
-317 Marketplace,"Mushrooms","Food","FOOD",2/27/2018,1,0,0,1680
-317 Marketplace,"Oil","Food","FOOD",2/27/2018,1,0,0,1695
-317 Marketplace,"Oregano","Food","FOOD",2/27/2018,2,0,0,1705
-317 Marketplace,"PB & J","Food","FOOD",2/27/2018,1,5,5,1330
-317 Marketplace,"Pepper","Food","FOOD",2/27/2018,6,0,0,1720
-317 Marketplace,"Pepper Jack","Food","FOOD",2/27/2018,3,0,0,1480
-317 Marketplace,"Philly Cheesesteak","Food","FOOD",2/27/2018,5,37.27,38.75,392
-317 Marketplace,"Philly Cheesesteak - Make it a Large","Food","FOOD",2/27/2018,1,3,3,0
-317 Marketplace,"Pickles","Food","FOOD",2/27/2018,2,0,0,1640
-317 Marketplace,"Provolone","Food","FOOD",2/27/2018,4,0,0,1475
-317 Marketplace,"PX Loyalty","Retail","RETAIL",2/27/2018,67,0,0,80020
-317 Marketplace,"PX Point Accrual","Retail","RETAIL",2/27/2018,57,0,0,80010
-317 Marketplace,"Quinoa","Food","FOOD",2/27/2018,1,0,0,1663
-317 Marketplace,"Ranch","Food","FOOD",2/27/2018,1,0,0,1600
-317 Marketplace,"Red Onions","Food","FOOD",2/27/2018,2,0,0,1620
-317 Marketplace,"REG Black Bean Patty","Food","FOOD",2/27/2018,3,12,18,325
-317 Marketplace,"REG Black Bean Patty - REG-Avocado","Food","FOOD",2/27/2018,1,1,1,0
-317 Marketplace,"REG Buff Chicken","Food","FOOD",2/27/2018,8,30,30,230
-317 Marketplace,"REG Caprese","Food","FOOD",2/27/2018,3,16.86,18,305
-317 Marketplace,"REG Chicken","Food","FOOD",2/27/2018,10,54.72,60,225
-317 Marketplace,"REG Chicken - REG-Avocado","Food","FOOD",2/27/2018,3,3,3,0
-317 Marketplace,"REG Chicken - REG-Bacon","Food","FOOD",2/27/2018,1,0.81,1,0
-317 Marketplace,"REG Chicken Cordon Bleu","Food","FOOD",2/27/2018,1,6,6,245
-317 Marketplace,"REG Chicken Pesto","Food","FOOD",2/27/2018,2,12,12,365
-317 Marketplace,"REG Chicken Salad","Food","FOOD",2/27/2018,1,6,6,395
-317 Marketplace,"REG Club","Food","FOOD",2/27/2018,10,43.44,48,430
-317 Marketplace,"REG Crab Salad","Food","FOOD",2/27/2018,2,12,12,270
-317 Marketplace,"REG Egg Salad","Food","FOOD",2/27/2018,1,6,6,390
-317 Marketplace,"REG Grinder","Food","FOOD",2/27/2018,9,51.72,54,345
-317 Marketplace,"REG Ham","Food","FOOD",2/27/2018,9,30,36,145
-317 Marketplace,"REG Meatball","Food","FOOD",2/27/2018,3,16.86,18,350
-317 Marketplace,"REG Pepperoni Pizzawich","Food","FOOD",2/27/2018,1,6,6,360
-317 Marketplace,"REG Roast Beef","Food","FOOD",2/27/2018,5,24,24,185
-317 Marketplace,"REG Roast Beef - REG-Double Meat","Food","FOOD",2/27/2018,2,4,4,0
-317 Marketplace,"REG Surf & Turf","Food","FOOD",2/27/2018,1,6,6,275
-317 Marketplace,"REG Thank You Turkey","Food","FOOD",2/27/2018,2,12,12,115
-317 Marketplace,"REG The Avocado","Food","FOOD",2/27/2018,2,12,12,310
-317 Marketplace,"REG Tuna Salad","Food","FOOD",2/27/2018,3,8.72,18,265
-317 Marketplace,"REG Tuna Salad - REG-Sliced Egg","Food","FOOD",2/27/2018,1,0.14,1,0
-317 Marketplace,"REG Turkey","Food","FOOD",2/27/2018,29,146.6,162,105
-317 Marketplace,"REG Turkey - REG-Avocado","Food","FOOD",2/27/2018,4,3.43,4,0
-317 Marketplace,"REG Turkey - REG-Bacon","Food","FOOD",2/27/2018,7,5.38,7,0
-317 Marketplace,"REG Turkeywich","Food","FOOD",2/27/2018,1,6,6,120
-317 Marketplace,"REG Wicked","Food","FOOD",2/27/2018,10,69.3,70,98
-317 Marketplace,"REG Wicked - REG-Avocado","Food","FOOD",2/27/2018,1,1,1,0
-317 Marketplace,"REG Wicked - REG-Double Meat","Food","FOOD",2/27/2018,1,2,2,0
-317 Marketplace,"Regular Mayo","Food","FOOD",2/27/2018,3,0,0,1540
-317 Marketplace,"Roasted Red Peppers","Food","FOOD",2/27/2018,1,0,0,0
-317 Marketplace,"Salt","Food","FOOD",2/27/2018,4,0,0,1715
-317 Marketplace,"Signature Tray Large","Catering","CATERING",2/27/2018,2,198,220,7212
-317 Marketplace,"SLD Buffalo Chicken","Food","FOOD",2/27/2018,1,7,7,1050
-317 Marketplace,"SLD Chicken","Food","FOOD",2/27/2018,1,7,7,1045
-317 Marketplace,"SLD Chicken - REG-Bacon","Food","FOOD",2/27/2018,1,1,1,0
-317 Marketplace,"SLD Chicken - REG-Sliced Egg","Food","FOOD",2/27/2018,1,1,1,0
-317 Marketplace,"SLD Chicken Salad","Food","FOOD",2/27/2018,1,7,7,1215
-317 Marketplace,"SLD Club","Food","FOOD",2/27/2018,1,7,7,1250
-317 Marketplace,"SLD Club - REG-Avocado","Food","FOOD",2/27/2018,1,1,1,0
-317 Marketplace,"SLD Club - REG-Sliced Egg","Food","FOOD",2/27/2018,1,1,1,0
-317 Marketplace,"Sliced Egg","Food","FOOD",2/27/2018,1,0,0,1426
-317 Marketplace,"Soda","Beverages","NA BEVERAGE",2/27/2018,1,0,0,1375
-317 Marketplace,"Spinach","Food","FOOD",2/27/2018,2,0,0,1656
-317 Marketplace,"Stuffing","Food","FOOD",2/27/2018,1,0,0,1687
-317 Marketplace,"SUP Muffuletta","Food","FOOD",2/27/2018,1,11.75,11.75,765
-317 Marketplace,"SUP Wicked","Food","FOOD",2/27/2018,2,27.5,27.5,507
-317 Marketplace,"SUP Wicked - SUP-Avocado","Food","FOOD",2/27/2018,1,2,2,0
-317 Marketplace,"Superfood Wich","Food","FOOD",2/27/2018,6,43.54,46.5,2312
-317 Marketplace,"The Reuben","Food","FOOD",2/27/2018,6,45.02,46.5,388
-317 Marketplace,"Tomato","Food","FOOD",2/27/2018,7,0,0,1635
-317 Marketplace,"Traditional Tray Regular","Catering","CATERING",2/27/2018,1,70,70,7010
-317 Marketplace,"Tzatziki","Food","FOOD",2/27/2018,1,0,0,1602
-317 Marketplace,"Ultimate BLT","Food","FOOD",2/27/2018,10,76.02,77.5,411
-317 Marketplace,"Vinegar","Food","FOOD",2/27/2018,2,0,0,1700
-317 Marketplace,"Wheat Bread","Food","FOOD",2/27/2018,5,0,0,1515
-317 Marketplace,"White Bread","Food","FOOD",2/27/2018,5,0,0,1510
-317 Marketplace,"Wrap Egg Salad","Food","FOOD",2/27/2018,1,6,6,9006
-317 Marketplace,"Wrap Egg Salad - Courtney's Cookie","Food","FOOD",2/27/2018,1,1.5,1.5,0
-317 Marketplace,"Yellow Mustard","Food","FOOD",2/27/2018,3,0,0,1520
-317 Marketplace,"1000 Island","Food","FOOD",2/28/2018,1,0,0,1595
-317 Marketplace,"16oz Shake","Beverages","NA BEVERAGE",2/28/2018,11,35.75,35.75,342
-317 Marketplace,"16oz Shake - 16oz Chocolate","Beverages","NA BEVERAGE",2/28/2018,3,0,0,0
-317 Marketplace,"16oz Shake - 16oz Oreo","Beverages","NA BEVERAGE",2/28/2018,5,0,0,0
-317 Marketplace,"16oz Shake - 16oz Strawberry","Beverages","NA BEVERAGE",2/28/2018,1,0,0,0
-317 Marketplace,"16oz Shake - 16oz Vanilla","Beverages","NA BEVERAGE",2/28/2018,3,0,0,0
-317 Marketplace,"22oz Fountain Drink","Beverages","NA BEVERAGE",2/28/2018,29,56,58,251
-317 Marketplace,"32oz  Fountain Drink","Beverages","NA BEVERAGE",2/28/2018,18,32.62,40.5,1752
-317 Marketplace,"32oz Refill","Beverages","NA BEVERAGE",2/28/2018,4,7,7,644
-317 Marketplace,"32oz Shake","Beverages","NA BEVERAGE",2/28/2018,1,5.25,5.25,9002
-317 Marketplace,"32oz Shake - 32oz Chocolate","Beverages","NA BEVERAGE",2/28/2018,1,0,0,0
-317 Marketplace,"American","Food","FOOD",2/28/2018,1,0,0,1460
-317 Marketplace,"Avocado","Food","FOOD",2/28/2018,3,0,0,1415
-317 Marketplace,"Banana Peppers","Food","FOOD",2/28/2018,4,0,0,1666
-317 Marketplace,"BBQ","Food","FOOD",2/28/2018,1,0,0,1565
-317 Marketplace,"BBQ Kettle Chips","Food","FOOD",2/28/2018,1,0,0,1987
-317 Marketplace,"Bell Peppers","Food","FOOD",2/28/2018,2,0,0,1665
-317 Marketplace,"Black Olives","Food","FOOD",2/28/2018,10,0,0,1670
-317 Marketplace,"Bottle Drink","Beverages","NA BEVERAGE",2/28/2018,1,1.75,1.75,1780
-317 Marketplace,"Buffalo","Food","FOOD",2/28/2018,1,0,0,1570
-317 Marketplace,"Can Drink","Beverages","NA BEVERAGE",2/28/2018,3,4.5,4.5,1770
-317 Marketplace,"Candy Token","Food","FOOD",2/28/2018,3,0,0,1954
-317 Marketplace,"Caramel Onion","Food","FOOD",2/28/2018,4,0,0,1615
-317 Marketplace,"Chipotle Mayo","Food","FOOD",2/28/2018,10,0,0,1547
-317 Marketplace,"Chips","Food","FOOD",2/28/2018,69,83.12,86.25,1425
-317 Marketplace,"Chocolate Chip","Food","FOOD",2/28/2018,35,0,0,1436
-317 Marketplace,"Classic Box Lunch","Catering","CATERING",2/28/2018,35,256.18,297.5,7271
-317 Marketplace,"Cobb Salad Wrap","Food","FOOD",2/28/2018,1,7.5,7.5,2324
-317 Marketplace,"Coldwich","Food","FOOD",2/28/2018,3,0,0,1732
-317 Marketplace,"Coleslaw","Food","FOOD",2/28/2018,1,0,0,1655
-317 Marketplace,"Courtney's Cake","Food","FOOD",2/28/2018,4,7.8,7.8,60001
-317 Marketplace,"Courtney's Cookie","Food","FOOD",2/28/2018,3,4.5,4.5,1447
-317 Marketplace,"Crispy Strings","Food","FOOD",2/28/2018,3,0,0,1625
-317 Marketplace,"CrushRed Pepp","Food","FOOD",2/28/2018,1,0,0,1730
-317 Marketplace,"Cucumbers","Food","FOOD",2/28/2018,3,0,0,1650
-317 Marketplace,"Deli Mustard","Food","FOOD",2/28/2018,1,0,0,1535
-317 Marketplace,"Drink","Beverages","NA BEVERAGE",2/28/2018,12,0,0,1746
-317 Marketplace,"Drink - 22oz Fountain Drink","Beverages","NA BEVERAGE",2/28/2018,7,14,14,0
-317 Marketplace,"Drink - 32oz  Fountain Drink","Beverages","NA BEVERAGE",2/28/2018,5,11.25,11.25,0
-317 Marketplace,"Garlic","Food","FOOD",2/28/2018,3,0,0,1725
-317 Marketplace,"Grape Jelly","Food","FOOD",2/28/2018,1,0,0,1556
-317 Marketplace,"Gyro Favorite","Food","FOOD",2/28/2018,7,54.25,54.25,386
-317 Marketplace,"Gyro Favorite - REG-Double Meat","Food","FOOD",2/28/2018,1,2,2,0
-317 Marketplace,"Ham","Food","FOOD",2/28/2018,4,0,0,145
-317 Marketplace,"Honey Mustard","Food","FOOD",2/28/2018,1,0,0,1530
-317 Marketplace,"Hot Pepper Mix","Food","FOOD",2/28/2018,8,0,0,1690
-317 Marketplace,"Hotwich","Food","FOOD",2/28/2018,20,0,0,1731
-317 Marketplace,"House Chips","Food","FOOD",2/28/2018,20,0,0,1981
-317 Marketplace,"Hummus","Food","FOOD",2/28/2018,2,0,0,315
-317 Marketplace,"Italian Club","Food","FOOD",2/28/2018,5,38.75,38.75,2314
-317 Marketplace,"Jalapeno Kettle Chips","Food","FOOD",2/28/2018,1,0,0,1986
-317 Marketplace,"Jalapenos","Food","FOOD",2/28/2018,1,0,0,1660
-317 Marketplace,"Juice","Beverages","NA BEVERAGE",2/28/2018,2,0,0,1370
-317 Marketplace,"Kid Apple Slice","Food","FOOD",2/28/2018,3,0,0,1384
-317 Marketplace,"Kid Carrots","Food","FOOD",2/28/2018,3,0,0,1387
-317 Marketplace,"Kids Rollups","Food","FOOD",2/28/2018,2,10,10,1326
-317 Marketplace,"Kidswich","Food","FOOD",2/28/2018,2,7.5,10,1325
-317 Marketplace,"Lettuce","Food","FOOD",2/28/2018,15,0,0,1630
-317 Marketplace,"Lettucewich Krab Salad","Food","FOOD",2/28/2018,1,6,6,9851
-317 Marketplace,"Lettucewich Turkeywich","Food","FOOD",2/28/2018,1,6,6,9602
-317 Marketplace,"Light Mayo","Food","FOOD",2/28/2018,1,0,0,1545
-317 Marketplace,"LRG Black Bean Patty","Food","FOOD",2/28/2018,3,15.3,25.5,70
-317 Marketplace,"LRG Black Bean Patty - LRG-Avocado","Food","FOOD",2/28/2018,2,1.2,3,0
-317 Marketplace,"LRG Buffalo Chicken","Food","FOOD",2/28/2018,5,36.5,42.5,47
-317 Marketplace,"LRG Buffalo Chicken - LRG-Bacon","Food","FOOD",2/28/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Chicken","Food","FOOD",2/28/2018,3,19.5,25.5,46
-317 Marketplace,"LRG Chicken - LRG-Avocado","Food","FOOD",2/28/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Chicken - LRG-Double Meat","Food","FOOD",2/28/2018,1,3,3,0
-317 Marketplace,"LRG Chicken Salad","Food","FOOD",2/28/2018,1,8.5,8.5,88
-317 Marketplace,"LRG Club","Food","FOOD",2/28/2018,3,25.5,25.5,7
-317 Marketplace,"LRG Crab Salad","Food","FOOD",2/28/2018,1,8.5,8.5,57
-317 Marketplace,"LRG French Dip","Food","FOOD",2/28/2018,1,8.5,8.5,10
-317 Marketplace,"LRG Grinder","Food","FOOD",2/28/2018,4,34,34,76
-317 Marketplace,"LRG Meatball","Food","FOOD",2/28/2018,1,8.5,8.5,77
-317 Marketplace,"LRG Pepperoni Pizzawich","Food","FOOD",2/28/2018,1,8.5,8.5,79
-317 Marketplace,"LRG Roast Beef","Food","FOOD",2/28/2018,2,17,17,36
-317 Marketplace,"LRG The Avocado","Food","FOOD",2/28/2018,3,25.5,25.5,67
-317 Marketplace,"LRG The Avocado - LRG-Double Cheese","Food","FOOD",2/28/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Tuna Salad","Food","FOOD",2/28/2018,3,25.5,25.5,56
-317 Marketplace,"LRG Tuna Salad - LRG-Double Cheese","Food","FOOD",2/28/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Turkey","Food","FOOD",2/28/2018,7,55.26,59.5,16
-317 Marketplace,"LRG Turkey - LRG-Bacon","Food","FOOD",2/28/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Wicked","Food","FOOD",2/28/2018,5,44.5,50,99
-317 Marketplace,"LRG Wicked - LRG-Avocado","Food","FOOD",2/28/2018,1,1.5,1.5,0
-317 Marketplace,"Meatball Grinder","Food","FOOD",2/28/2018,2,15.5,15.5,382
-317 Marketplace,"Milk","Beverages","NA BEVERAGE",2/28/2018,2,0,0,1360
-317 Marketplace,"Mozzarella","Food","FOOD",2/28/2018,1,0,0,1485
-317 Marketplace,"Mushrooms","Food","FOOD",2/28/2018,1,0,0,1680
-317 Marketplace,"Oil","Food","FOOD",2/28/2018,1,0,0,1695
-317 Marketplace,"Olive Salad","Food","FOOD",2/28/2018,1,0,0,1675
-317 Marketplace,"Oregano","Food","FOOD",2/28/2018,1,0,0,1705
-317 Marketplace,"PB & J","Food","FOOD",2/28/2018,1,5,5,1330
-317 Marketplace,"Peanut Butter","Food","FOOD",2/28/2018,1,0,0,1437
-317 Marketplace,"Pepper","Food","FOOD",2/28/2018,3,0,0,1720
-317 Marketplace,"Pepper Jack","Food","FOOD",2/28/2018,10,0,0,1480
-317 Marketplace,"Pesto","Food","FOOD",2/28/2018,1,0,0,1580
-317 Marketplace,"Philly Cheesesteak","Food","FOOD",2/28/2018,7,54.25,54.25,392
-317 Marketplace,"Philly Cheesesteak - Make it a Large","Food","FOOD",2/28/2018,1,3,3,0
-317 Marketplace,"Philly Cheesesteak - REG-Bacon","Food","FOOD",2/28/2018,1,1,1,0
-317 Marketplace,"Philly Cheesesteak - REG-Double Cheese","Food","FOOD",2/28/2018,2,2,2,0
-317 Marketplace,"Pickles","Food","FOOD",2/28/2018,7,0,0,1640
-317 Marketplace,"Provolone","Food","FOOD",2/28/2018,14,0,0,1475
-317 Marketplace,"PX Loyalty","Retail","RETAIL",2/28/2018,67,0,0,80020
-317 Marketplace,"PX Point Accrual","Retail","RETAIL",2/28/2018,58,0,0,80010
-317 Marketplace,"PX Wicked","Retail","RETAIL",2/28/2018,14,0,0,80100
-317 Marketplace,"Ranch","Food","FOOD",2/28/2018,1,0,0,1600
-317 Marketplace,"Red Onions","Food","FOOD",2/28/2018,6,0,0,1620
-317 Marketplace,"REG Black Bean Patty","Food","FOOD",2/28/2018,4,18.86,24,325
-317 Marketplace,"REG Black Bean Patty - REG-Avocado","Food","FOOD",2/28/2018,1,0.14,1,0
-317 Marketplace,"REG Buff Chicken","Food","FOOD",2/28/2018,2,12,12,230
-317 Marketplace,"REG Caprese","Food","FOOD",2/28/2018,4,0,0,305
-317 Marketplace,"REG Chicken","Food","FOOD",2/28/2018,10,54,60,225
-317 Marketplace,"REG Chicken - REG-Double Cheese","Food","FOOD",2/28/2018,1,1,1,0
-317 Marketplace,"REG Chicken Pesto","Food","FOOD",2/28/2018,4,24,24,365
-317 Marketplace,"REG Chicken Pesto - REG-Avocado","Food","FOOD",2/28/2018,1,1,1,0
-317 Marketplace,"REG Club","Food","FOOD",2/28/2018,16,36,36,430
-317 Marketplace,"REG Crab Salad","Food","FOOD",2/28/2018,2,12,12,270
-317 Marketplace,"REG Egg Salad","Food","FOOD",2/28/2018,2,12,12,390
-317 Marketplace,"REG French Dip","Food","FOOD",2/28/2018,2,12,12,445
-317 Marketplace,"REG French Dip - REG-Double Cheese","Food","FOOD",2/28/2018,1,1,1,0
-317 Marketplace,"REG Grinder","Food","FOOD",2/28/2018,1,6,6,345
-317 Marketplace,"REG Ham","Food","FOOD",2/28/2018,12,18,18,145
-317 Marketplace,"REG Ham - REG-Double Cheese","Food","FOOD",2/28/2018,1,1,1,0
-317 Marketplace,"REG Meatball","Food","FOOD",2/28/2018,3,12,18,350
-317 Marketplace,"REG Pepperoni Pizzawich","Food","FOOD",2/28/2018,1,6,6,360
-317 Marketplace,"REG Roast Beef","Food","FOOD",2/28/2018,5,18,18,185
-317 Marketplace,"REG Roast Beef - REG-Bacon","Food","FOOD",2/28/2018,1,1,1,0
-317 Marketplace,"REG Surf & Turf","Food","FOOD",2/28/2018,1,6,6,275
-317 Marketplace,"REG Thank You Turkey","Food","FOOD",2/28/2018,2,12,12,115
-317 Marketplace,"REG Thank You Turkey - REG-Bacon","Food","FOOD",2/28/2018,1,1,1,0
-317 Marketplace,"REG The Avocado","Food","FOOD",2/28/2018,2,12,12,310
-317 Marketplace,"REG Tuna Salad","Food","FOOD",2/28/2018,4,24,24,265
-317 Marketplace,"REG Tuna Salad - REG-Avocado","Food","FOOD",2/28/2018,1,1,1,0
-317 Marketplace,"REG Turkey","Food","FOOD",2/28/2018,27,99,102,105
-317 Marketplace,"REG Turkey - Courtney's Cookie","Food","FOOD",2/28/2018,1,1.5,1.5,0
-317 Marketplace,"REG Turkey - REG-Bacon","Food","FOOD",2/28/2018,1,1,1,0
-317 Marketplace,"REG Turkey - REG-Sliced Egg","Food","FOOD",2/28/2018,1,1,1,0
-317 Marketplace,"REG Turkeywich","Food","FOOD",2/28/2018,1,6,6,120
-317 Marketplace,"REG Wicked","Food","FOOD",2/28/2018,14,72.75,98,98
-317 Marketplace,"REG Wicked - REG-Avocado","Food","FOOD",2/28/2018,1,1,1,0
-317 Marketplace,"Regular Mayo","Food","FOOD",2/28/2018,3,0,0,1540
-317 Marketplace,"Salt","Food","FOOD",2/28/2018,3,0,0,1715
-317 Marketplace,"Salt & Vinegar Kettle","Food","FOOD",2/28/2018,1,0,0,1988
-317 Marketplace,"Sauteed Bell Peppers","Food","FOOD",2/28/2018,1,0,0,1669
-317 Marketplace,"SLD Club","Food","FOOD",2/28/2018,1,7,7,1250
-317 Marketplace,"Soda","Beverages","NA BEVERAGE",2/28/2018,1,0,0,1375
-317 Marketplace,"Spicy Ranch","Food","FOOD",2/28/2018,9,0,0,1601
-317 Marketplace,"Spinach","Food","FOOD",2/28/2018,4,0,0,1656
-317 Marketplace,"SUP Chicken","Food","FOOD",2/28/2018,1,11.75,11.75,635
-317 Marketplace,"SUP Grinder","Food","FOOD",2/28/2018,1,11.75,11.75,755
-317 Marketplace,"SUP Wicked","Food","FOOD",2/28/2018,1,7.75,13.75,507
-317 Marketplace,"Superfood Wich","Food","FOOD",2/28/2018,2,15.5,15.5,2312
-317 Marketplace,"Swiss","Food","FOOD",2/28/2018,3,0,0,1465
-317 Marketplace,"The Reuben","Food","FOOD",2/28/2018,2,15.5,15.5,388
-317 Marketplace,"Tomato","Food","FOOD",2/28/2018,6,0,0,1635
-317 Marketplace,"Tzatziki","Food","FOOD",2/28/2018,1,0,0,1602
-317 Marketplace,"Ultimate BLT","Food","FOOD",2/28/2018,6,46.5,46.5,411
-317 Marketplace,"Ultimate BLT - REG-Sliced Egg","Food","FOOD",2/28/2018,1,1,1,0
-317 Marketplace,"Vinegar","Food","FOOD",2/28/2018,1,0,0,1700
-317 Marketplace,"Wheat Bread","Food","FOOD",2/28/2018,12,0,0,1515
-317 Marketplace,"White Bread","Food","FOOD",2/28/2018,9,0,0,1510
-317 Marketplace,"Wich Ice","Catering","CATERING",2/28/2018,1,1.82,2.5,1895
-317 Marketplace,"Wrap Black Bean","Food","FOOD",2/28/2018,1,6,6,9153
-317 Marketplace,"Wrap Black Bean - REG-Double Cheese","Food","FOOD",2/28/2018,1,1,1,0
-317 Marketplace,"Wrap Turkey","Food","FOOD",2/28/2018,1,6,6,9101
-317 Marketplace,"Wrap Wicked","Food","FOOD",2/28/2018,1,5.25,6.75,9008
-317 Marketplace,"Yellow Cheese","Food","FOOD",2/28/2018,1,0,0,1492
-317 Marketplace,"16oz Shake","Beverages","NA BEVERAGE",3/1/2018,8,26,26,342
-317 Marketplace,"16oz Shake - 16oz Chocolate","Beverages","NA BEVERAGE",3/1/2018,2,0,0,0
-317 Marketplace,"16oz Shake - 16oz Oreo","Beverages","NA BEVERAGE",3/1/2018,4,0,0,0
-317 Marketplace,"16oz Shake - 16oz Strawberry","Beverages","NA BEVERAGE",3/1/2018,1,0,0,0
-317 Marketplace,"16oz Shake - 16oz Vanilla","Beverages","NA BEVERAGE",3/1/2018,2,0,0,0
-317 Marketplace,"22oz Fountain Drink","Beverages","NA BEVERAGE",3/1/2018,33,61.45,66,251
-317 Marketplace,"32oz  Fountain Drink","Beverages","NA BEVERAGE",3/1/2018,18,38.25,40.5,1752
-317 Marketplace,"32oz Refill","Beverages","NA BEVERAGE",3/1/2018,4,7,7,644
-317 Marketplace,"Banana Peppers","Food","FOOD",3/1/2018,2,0,0,1666
-317 Marketplace,"BBQ Kettle Chips","Food","FOOD",3/1/2018,1,0,0,1987
-317 Marketplace,"Bell Peppers","Food","FOOD",3/1/2018,3,0,0,1665
-317 Marketplace,"Black Olives","Food","FOOD",3/1/2018,4,0,0,1670
-317 Marketplace,"Blue Cheese","Food","FOOD",3/1/2018,2,0,0,1462
-317 Marketplace,"Caramel Onion","Food","FOOD",3/1/2018,1,0,0,1615
-317 Marketplace,"Chips","Food","FOOD",3/1/2018,67,80.9,83.75,1425
-317 Marketplace,"Choc Milk","Beverages","NA BEVERAGE",3/1/2018,2,0,0,1365
-317 Marketplace,"Cobb Salad Wrap","Food","FOOD",3/1/2018,3,22.5,22.5,2324
-317 Marketplace,"Cobb Salad Wrap - REG-Sliced Egg","Food","FOOD",3/1/2018,1,1,1,0
-317 Marketplace,"Coldwich","Food","FOOD",3/1/2018,1,0,0,1732
-317 Marketplace,"Courtney's Cake","Food","FOOD",3/1/2018,4,7.8,7.8,60001
-317 Marketplace,"Courtney's Cookie","Food","FOOD",3/1/2018,5,7.5,7.5,1447
-317 Marketplace,"CrushRed Pepp","Food","FOOD",3/1/2018,1,0,0,1730
-317 Marketplace,"Cucumbers","Food","FOOD",3/1/2018,2,0,0,1650
-317 Marketplace,"Drink","Beverages","NA BEVERAGE",3/1/2018,18,0,0,1746
-317 Marketplace,"Drink - 22oz Fountain Drink","Beverages","NA BEVERAGE",3/1/2018,16,30,32,0
-317 Marketplace,"Drink - 32oz  Fountain Drink","Beverages","NA BEVERAGE",3/1/2018,1,2.25,2.25,0
-317 Marketplace,"Drink - 32oz Refill","Beverages","NA BEVERAGE",3/1/2018,1,1.75,1.75,0
-317 Marketplace,"Garlic","Food","FOOD",3/1/2018,1,0,0,1725
-317 Marketplace,"Grilled Cheese","Food","FOOD",3/1/2018,2,10,10,1335
-317 Marketplace,"Gyro Favorite","Food","FOOD",3/1/2018,7,54.25,54.25,386
-317 Marketplace,"Gyro Favorite - REG-Double Cheese","Food","FOOD",3/1/2018,1,1,1,0
-317 Marketplace,"Ham","Food","FOOD",3/1/2018,1,0,0,145
-317 Marketplace,"Honey Mustard","Food","FOOD",3/1/2018,1,0,0,1530
-317 Marketplace,"Hot Pepper Mix","Food","FOOD",3/1/2018,1,0,0,1690
-317 Marketplace,"Hotwich","Food","FOOD",3/1/2018,6,0,0,1731
-317 Marketplace,"House Chips","Food","FOOD",3/1/2018,1,0,0,1981
-317 Marketplace,"Hummus","Food","FOOD",3/1/2018,1,0,0,315
-317 Marketplace,"Italian Club","Food","FOOD",3/1/2018,1,7.75,7.75,2314
-317 Marketplace,"Jalapenos","Food","FOOD",3/1/2018,1,0,0,1660
-317 Marketplace,"Juice","Beverages","NA BEVERAGE",3/1/2018,1,0,0,1370
-317 Marketplace,"Kidswich","Food","FOOD",3/1/2018,2,7.5,10,1325
-317 Marketplace,"Lettuce","Food","FOOD",3/1/2018,5,0,0,1630
-317 Marketplace,"Lettucewich Buff Chicken","Food","FOOD",3/1/2018,1,0,6,9552
-317 Marketplace,"Lettucewich Club","Food","FOOD",3/1/2018,1,6,6,9507
-317 Marketplace,"Lettucewich Wicked","Food","FOOD",3/1/2018,1,6.75,6.75,9508
-317 Marketplace,"Light Mayo","Food","FOOD",3/1/2018,3,0,0,1545
-317 Marketplace,"LRG Black Bean Patty","Food","FOOD",3/1/2018,2,17,17,70
-317 Marketplace,"LRG Buffalo Chicken","Food","FOOD",3/1/2018,1,8.5,8.5,47
-317 Marketplace,"LRG Buffalo Chicken - LRG-Bacon","Food","FOOD",3/1/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Chicken","Food","FOOD",3/1/2018,2,17,17,46
-317 Marketplace,"LRG Chicken Pesto","Food","FOOD",3/1/2018,1,2.5,8.5,80
-317 Marketplace,"LRG Club","Food","FOOD",3/1/2018,3,25.5,25.5,7
-317 Marketplace,"LRG Crab Salad","Food","FOOD",3/1/2018,1,8.5,8.5,57
-317 Marketplace,"LRG Grinder","Food","FOOD",3/1/2018,4,28.9,34,76
-317 Marketplace,"LRG Grinder - LRG-Double Cheese","Food","FOOD",3/1/2018,1,0.6,1.5,0
-317 Marketplace,"LRG Grinder - LRG-Double Meat","Food","FOOD",3/1/2018,1,3,3,0
-317 Marketplace,"LRG Ham","Food","FOOD",3/1/2018,1,8.5,8.5,26
-317 Marketplace,"LRG Meatball","Food","FOOD",3/1/2018,1,8.5,8.5,77
-317 Marketplace,"LRG Muffuletta","Food","FOOD",3/1/2018,1,6.15,8.5,78
-317 Marketplace,"LRG Pepperoni Pizzawich","Food","FOOD",3/1/2018,1,8.5,8.5,79
-317 Marketplace,"LRG Roast Beef","Food","FOOD",3/1/2018,1,8.5,8.5,36
-317 Marketplace,"LRG Surf & Turf","Food","FOOD",3/1/2018,1,8.5,8.5,58
-317 Marketplace,"LRG Thank You Turkey","Food","FOOD",3/1/2018,1,8.5,8.5,18
-317 Marketplace,"LRG The Avocado","Food","FOOD",3/1/2018,3,25.5,25.5,67
-317 Marketplace,"LRG Tuna Salad","Food","FOOD",3/1/2018,1,8.5,8.5,56
-317 Marketplace,"LRG Turkey","Food","FOOD",3/1/2018,9,75.65,76.5,16
-317 Marketplace,"LRG Turkey - LRG-Avocado","Food","FOOD",3/1/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Turkey - LRG-Bacon","Food","FOOD",3/1/2018,2,3,3,0
-317 Marketplace,"LRG Turkey - LRG-Sliced Egg","Food","FOOD",3/1/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Wicked","Food","FOOD",3/1/2018,7,70,70,99
-317 Marketplace,"LRG Wicked - LRG-Bacon","Food","FOOD",3/1/2018,1,1.5,1.5,0
-317 Marketplace,"Marinara","Food","FOOD",3/1/2018,1,0,0,1575
-317 Marketplace,"Meatball Grinder","Food","FOOD",3/1/2018,3,17.25,23.25,382
-317 Marketplace,"Mozzarella","Food","FOOD",3/1/2018,1,0,0,1485
-317 Marketplace,"Oil","Food","FOOD",3/1/2018,1,0,0,1695
-317 Marketplace,"Olive Salad","Food","FOOD",3/1/2018,1,0,0,1675
-317 Marketplace,"Oregano","Food","FOOD",3/1/2018,3,0,0,1705
-317 Marketplace,"Pepper","Food","FOOD",3/1/2018,2,0,0,1720
-317 Marketplace,"Pepper Jack","Food","FOOD",3/1/2018,2,0,0,1480
-317 Marketplace,"Philly Cheesesteak","Food","FOOD",3/1/2018,7,54.25,54.25,392
-317 Marketplace,"Philly Cheesesteak - Make it a Large","Food","FOOD",3/1/2018,1,3,3,0
-317 Marketplace,"Pickles","Food","FOOD",3/1/2018,2,0,0,1640
-317 Marketplace,"Provolone","Food","FOOD",3/1/2018,2,0,0,1475
-317 Marketplace,"PX Loyalty","Retail","RETAIL",3/1/2018,53,0,0,80020
-317 Marketplace,"PX Point Accrual","Retail","RETAIL",3/1/2018,46,0,0,80010
-317 Marketplace,"Red Onions","Food","FOOD",3/1/2018,2,0,0,1620
-317 Marketplace,"REG Black Bean Patty","Food","FOOD",3/1/2018,3,18,18,325
-317 Marketplace,"REG Buff Chicken","Food","FOOD",3/1/2018,3,12,18,230
-317 Marketplace,"REG Buff Chicken - REG-Avocado","Food","FOOD",3/1/2018,1,1,1,0
-317 Marketplace,"REG Chicken","Food","FOOD",3/1/2018,8,47.4,48,225
-317 Marketplace,"REG Chicken - REG-Avocado","Food","FOOD",3/1/2018,2,2,2,0
-317 Marketplace,"REG Chicken Cordon Bleu","Food","FOOD",3/1/2018,1,6,6,245
-317 Marketplace,"REG Chicken Pesto","Food","FOOD",3/1/2018,1,6,6,365
-317 Marketplace,"REG Club","Food","FOOD",3/1/2018,3,18,18,430
-317 Marketplace,"REG Club - REG-Bacon","Food","FOOD",3/1/2018,1,1,1,0
-317 Marketplace,"REG Club - REG-Double Cheese","Food","FOOD",3/1/2018,1,1,1,0
-317 Marketplace,"REG Corned Beef","Food","FOOD",3/1/2018,2,12,12,190
-317 Marketplace,"REG Corned Beef - REG-Double Cheese","Food","FOOD",3/1/2018,1,1,1,0
-317 Marketplace,"REG French Dip","Food","FOOD",3/1/2018,1,6,6,445
-317 Marketplace,"REG Grinder","Food","FOOD",3/1/2018,3,12,18,345
-317 Marketplace,"REG Ham","Food","FOOD",3/1/2018,6,30,36,145
-317 Marketplace,"REG Ham - Courtney's Cookie","Food","FOOD",3/1/2018,1,1.5,1.5,0
-317 Marketplace,"REG Ham - REG-Bacon","Food","FOOD",3/1/2018,1,0,1,0
-317 Marketplace,"REG Muffuletta","Food","FOOD",3/1/2018,2,6.99,12,355
-317 Marketplace,"REG Roast Beef","Food","FOOD",3/1/2018,4,24,24,185
-317 Marketplace,"REG Roast Beef - REG-Avocado","Food","FOOD",3/1/2018,1,1,1,0
-317 Marketplace,"REG Thank You Turkey","Food","FOOD",3/1/2018,2,12,12,115
-317 Marketplace,"REG The Avocado","Food","FOOD",3/1/2018,4,24,24,310
-317 Marketplace,"REG The Avocado - REG-Sliced Egg","Food","FOOD",3/1/2018,2,2,2,0
-317 Marketplace,"REG Tuna Salad","Food","FOOD",3/1/2018,3,18,18,265
-317 Marketplace,"REG Turkey","Food","FOOD",3/1/2018,22,111.86,132,105
-317 Marketplace,"REG Turkey - REG-Avocado","Food","FOOD",3/1/2018,2,2,2,0
-317 Marketplace,"REG Turkey - REG-Bacon","Food","FOOD",3/1/2018,3,2.14,3,0
-317 Marketplace,"REG Turkey - REG-Double Cheese","Food","FOOD",3/1/2018,1,1,1,0
-317 Marketplace,"REG Turkeywich","Food","FOOD",3/1/2018,2,12,12,120
-317 Marketplace,"REG Wicked","Food","FOOD",3/1/2018,5,29,35,98
-317 Marketplace,"REG Wicked - REG-Bacon","Food","FOOD",3/1/2018,1,1,1,0
-317 Marketplace,"Regular Mayo","Food","FOOD",3/1/2018,1,0,0,1540
-317 Marketplace,"Salt","Food","FOOD",3/1/2018,1,0,0,1715
-317 Marketplace,"SLD Turkey","Food","FOOD",3/1/2018,1,7,7,925
-317 Marketplace,"Soda","Beverages","NA BEVERAGE",3/1/2018,1,0,0,1375
-317 Marketplace,"Spinach","Food","FOOD",3/1/2018,3,0,0,1656
-317 Marketplace,"SUP Chicken","Food","FOOD",3/1/2018,2,12.75,23.5,635
-317 Marketplace,"SUP Roast Beef","Food","FOOD",3/1/2018,1,11.75,11.75,595
-317 Marketplace,"SUP Turkey","Food","FOOD",3/1/2018,1,11.75,11.75,515
-317 Marketplace,"SUP Turkey - SUP-Avocado","Food","FOOD",3/1/2018,1,2,2,0
-317 Marketplace,"Superfood Wich","Food","FOOD",3/1/2018,1,7.75,7.75,2312
-317 Marketplace,"Superfood Wich - REG-Bacon","Food","FOOD",3/1/2018,1,1,1,0
-317 Marketplace,"Superfood Wich - REG-Sliced Egg","Food","FOOD",3/1/2018,1,1,1,0
-317 Marketplace,"The Reuben","Food","FOOD",3/1/2018,2,15.5,15.5,388
-317 Marketplace,"Tomato","Food","FOOD",3/1/2018,4,0,0,1635
-317 Marketplace,"Turkey","Food","FOOD",3/1/2018,1,0,0,105
-317 Marketplace,"Tzatziki","Food","FOOD",3/1/2018,1,0,0,1602
-317 Marketplace,"Ultimate BLT","Food","FOOD",3/1/2018,6,38.75,46.5,411
-317 Marketplace,"Vinegar","Food","FOOD",3/1/2018,1,0,0,1700
-317 Marketplace,"Wheat Bread","Food","FOOD",3/1/2018,2,0,0,1515
-317 Marketplace,"White Bread","Food","FOOD",3/1/2018,4,0,0,1510
-317 Marketplace,"Wrap Black Bean","Food","FOOD",3/1/2018,2,12,12,9153
-317 Marketplace,"Wrap Black Bean - REG-Avocado","Food","FOOD",3/1/2018,1,1,1,0
-317 Marketplace,"Wrap Buffalo Chicken","Food","FOOD",3/1/2018,1,0,6,9052
-317 Marketplace,"Wrap Chicken","Food","FOOD",3/1/2018,1,6,6,9051
-317 Marketplace,"Wrap Chicken Pesto","Food","FOOD",3/1/2018,1,6,6,9053
-317 Marketplace,"1000 Island","Food","FOOD",3/2/2018,2,0,0,1595
-317 Marketplace,"16oz Shake","Beverages","NA BEVERAGE",3/2/2018,19,61.75,61.75,342
-317 Marketplace,"16oz Shake - 16oz Chocolate","Beverages","NA BEVERAGE",3/2/2018,9,0,0,0
-317 Marketplace,"16oz Shake - 16oz Oreo","Beverages","NA BEVERAGE",3/2/2018,7,0,0,0
-317 Marketplace,"16oz Shake - 16oz Strawberry","Beverages","NA BEVERAGE",3/2/2018,3,0,0,0
-317 Marketplace,"22oz Fountain Drink","Beverages","NA BEVERAGE",3/2/2018,37,68,74,251
-317 Marketplace,"32oz  Fountain Drink","Beverages","NA BEVERAGE",3/2/2018,13,22.5,29.25,1752
-317 Marketplace,"32oz Refill","Beverages","NA BEVERAGE",3/2/2018,9,15.75,15.75,644
-317 Marketplace,"American","Food","FOOD",3/2/2018,2,0,0,1460
-317 Marketplace,"Avocado","Food","FOOD",3/2/2018,2,0,0,1415
-317 Marketplace,"Balsamic Vinagrette","Food","FOOD",3/2/2018,1,0,0,1567
-317 Marketplace,"Banana Peppers","Food","FOOD",3/2/2018,4,0,0,1666
-317 Marketplace,"BBQ","Food","FOOD",3/2/2018,1,0,0,1565
-317 Marketplace,"BBQ Kettle Chips","Food","FOOD",3/2/2018,1,0,0,1987
-317 Marketplace,"Bell Peppers","Food","FOOD",3/2/2018,4,0,0,1665
-317 Marketplace,"Black Olives","Food","FOOD",3/2/2018,6,0,0,1670
-317 Marketplace,"Bottled Water","Beverages","NA BEVERAGE",3/2/2018,1,1.75,1.75,1760
-317 Marketplace,"Candy Token","Food","FOOD",3/2/2018,2,0,0,1954
-317 Marketplace,"Caramel Onion","Food","FOOD",3/2/2018,5,0,0,1615
-317 Marketplace,"Cheddar","Food","FOOD",3/2/2018,3,0,0,1470
-317 Marketplace,"Chipotle Mayo","Food","FOOD",3/2/2018,2,0,0,1547
-317 Marketplace,"Chips","Food","FOOD",3/2/2018,88,106.25,110,1425
-317 Marketplace,"Choc Milk","Beverages","NA BEVERAGE",3/2/2018,1,0,0,1365
-317 Marketplace,"Chocolate Chip","Food","FOOD",3/2/2018,14,0,0,1436
-317 Marketplace,"Classic Box Lunch","Catering","CATERING",3/2/2018,14,101,119,7271
-317 Marketplace,"Cobb Salad Wrap","Food","FOOD",3/2/2018,1,7.5,7.5,2324
-317 Marketplace,"Coldwich","Food","FOOD",3/2/2018,4,0,0,1732
-317 Marketplace,"Courtney's Cake","Food","FOOD",3/2/2018,4,7.8,7.8,60001
-317 Marketplace,"Courtney's Cookie","Food","FOOD",3/2/2018,7,9,10.5,1447
-317 Marketplace,"Crispy Strings","Food","FOOD",3/2/2018,2,0,0,1625
-317 Marketplace,"CrushRed Pepp","Food","FOOD",3/2/2018,1,0,0,1730
-317 Marketplace,"Cucumbers","Food","FOOD",3/2/2018,2,0,0,1650
-317 Marketplace,"Dijon Mustard","Food","FOOD",3/2/2018,3,0,0,1525
-317 Marketplace,"Drink","Beverages","NA BEVERAGE",3/2/2018,14,0,0,1746
-317 Marketplace,"Drink - 22oz Fountain Drink","Beverages","NA BEVERAGE",3/2/2018,12,18,24,0
-317 Marketplace,"Drink - 32oz  Fountain Drink","Beverages","NA BEVERAGE",3/2/2018,2,4.5,4.5,0
-317 Marketplace,"Garlic","Food","FOOD",3/2/2018,2,0,0,1725
-317 Marketplace,"Gyro Favorite","Food","FOOD",3/2/2018,3,23.25,23.25,386
-317 Marketplace,"Ham","Food","FOOD",3/2/2018,3,0,0,145
-317 Marketplace,"Honey Mustard","Food","FOOD",3/2/2018,2,0,0,1530
-317 Marketplace,"Hot Pepper Mix","Food","FOOD",3/2/2018,2,0,0,1690
-317 Marketplace,"Hotwich","Food","FOOD",3/2/2018,18,0,0,1731
-317 Marketplace,"Hummus","Food","FOOD",3/2/2018,3,0,0,315
-317 Marketplace,"Italian Club","Food","FOOD",3/2/2018,9,65.87,69.75,2314
-317 Marketplace,"Jalapeno Hummus","Food","FOOD",3/2/2018,1,0,0,1587
-317 Marketplace,"Jalapenos","Food","FOOD",3/2/2018,3,0,0,1660
-317 Marketplace,"Juice","Beverages","NA BEVERAGE",3/2/2018,1,0,0,1370
-317 Marketplace,"Kid Apple Slice","Food","FOOD",3/2/2018,2,0,0,1384
-317 Marketplace,"Kid Carrots","Food","FOOD",3/2/2018,2,0,0,1387
-317 Marketplace,"Kids Rollups","Food","FOOD",3/2/2018,1,5,5,1326
-317 Marketplace,"Kidswich","Food","FOOD",3/2/2018,4,17.5,20,1325
-317 Marketplace,"Lay's Regular","Food","FOOD",3/2/2018,1,0,0,1982
-317 Marketplace,"Lettuce","Food","FOOD",3/2/2018,18,0,0,1630
-317 Marketplace,"Lettucewich Chicken","Food","FOOD",3/2/2018,1,6,6,9551
-317 Marketplace,"Lettucewich Chicken - REG-Double Meat*","Food","FOOD",3/2/2018,1,2,2,0
-317 Marketplace,"Lettucewich Roast Beef","Food","FOOD",3/2/2018,1,6,6,9801
-317 Marketplace,"Lettucewich Roast Beef - REG-Bacon*","Food","FOOD",3/2/2018,1,1,1,0
-317 Marketplace,"Lettucewich Tuna Salad","Food","FOOD",3/2/2018,2,12,12,9852
-317 Marketplace,"Lettucewich Turkey","Food","FOOD",3/2/2018,1,6,6,9601
-317 Marketplace,"Light Mayo","Food","FOOD",3/2/2018,2,0,0,1545
-317 Marketplace,"LRG Black Bean Patty","Food","FOOD",3/2/2018,2,11,17,70
-317 Marketplace,"LRG Black Bean Patty - LRG-Avocado","Food","FOOD",3/2/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Buffalo Chicken","Food","FOOD",3/2/2018,4,34,34,47
-317 Marketplace,"LRG Chicken","Food","FOOD",3/2/2018,2,17,17,46
-317 Marketplace,"LRG Chicken - LRG-Bacon","Food","FOOD",3/2/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Chicken Cordon Bleu","Food","FOOD",3/2/2018,1,8.5,8.5,50
-317 Marketplace,"LRG Chicken Cordon Bleu - LRG-Bacon","Food","FOOD",3/2/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Chicken Cordon Bleu - LRG-Double Cheese","Food","FOOD",3/2/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Chicken Pesto","Food","FOOD",3/2/2018,1,8.5,8.5,80
-317 Marketplace,"LRG Corned Beef","Food","FOOD",3/2/2018,2,17,17,37
-317 Marketplace,"LRG Corned Beef - LRG-Avocado","Food","FOOD",3/2/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Egg Salad","Food","FOOD",3/2/2018,4,34,34,87
-317 Marketplace,"LRG Grinder","Food","FOOD",3/2/2018,6,45,51,76
-317 Marketplace,"LRG Grinder - LRG-Double Cheese","Food","FOOD",3/2/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Ham","Food","FOOD",3/2/2018,2,17,17,26
-317 Marketplace,"LRG Ham - LRG-Double Meat","Food","FOOD",3/2/2018,1,3,3,0
-317 Marketplace,"LRG Pepperoni Pizzawich","Food","FOOD",3/2/2018,4,34,34,79
-317 Marketplace,"LRG Pepperoni Pizzawich - LRG-Double Cheese","Food","FOOD",3/2/2018,2,3,3,0
-317 Marketplace,"LRG Pepperoni Pizzawich - LRG-Double Meat","Food","FOOD",3/2/2018,1,3,3,0
-317 Marketplace,"LRG Surf & Turf","Food","FOOD",3/2/2018,1,8.5,8.5,58
-317 Marketplace,"LRG The Avocado","Food","FOOD",3/2/2018,2,17,17,67
-317 Marketplace,"LRG The Avocado - LRG-Bacon","Food","FOOD",3/2/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Tuna Salad","Food","FOOD",3/2/2018,2,17,17,56
-317 Marketplace,"LRG Turkey","Food","FOOD",3/2/2018,7,51,59.5,16
-317 Marketplace,"LRG Turkey - LRG-Avocado","Food","FOOD",3/2/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Turkey - LRG-Bacon","Food","FOOD",3/2/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Wicked","Food","FOOD",3/2/2018,3,30,30,99
-317 Marketplace,"LRG Wicked - LRG-Avocado","Food","FOOD",3/2/2018,1,1.5,1.5,0
-317 Marketplace,"Milk","Beverages","NA BEVERAGE",3/2/2018,1,0,0,1360
-317 Marketplace,"Mozzarella","Food","FOOD",3/2/2018,3,0,0,1485
-317 Marketplace,"Mushrooms","Food","FOOD",3/2/2018,3,0,0,1680
-317 Marketplace,"Oil","Food","FOOD",3/2/2018,4,0,0,1695
-317 Marketplace,"Olive Salad","Food","FOOD",3/2/2018,2,0,0,1675
-317 Marketplace,"Oregano","Food","FOOD",3/2/2018,3,0,0,1705
-317 Marketplace,"Pepper","Food","FOOD",3/2/2018,6,0,0,1720
-317 Marketplace,"Pesto","Food","FOOD",3/2/2018,3,0,0,1580
-317 Marketplace,"Philly Cheesesteak","Food","FOOD",3/2/2018,6,46.5,46.5,392
-317 Marketplace,"Philly Cheesesteak - REG-Double Cheese","Food","FOOD",3/2/2018,1,1,1,0
-317 Marketplace,"Pickles","Food","FOOD",3/2/2018,9,0,0,1640
-317 Marketplace,"Provolone","Food","FOOD",3/2/2018,8,0,0,1475
-317 Marketplace,"PX Loyalty","Retail","RETAIL",3/2/2018,53,0,0,80020
-317 Marketplace,"PX Point Accrual","Retail","RETAIL",3/2/2018,50,0,0,80010
-317 Marketplace,"Quinoa","Food","FOOD",3/2/2018,1,0,0,1663
-317 Marketplace,"Ranch","Food","FOOD",3/2/2018,1,0,0,1600
-317 Marketplace,"Red Onions","Food","FOOD",3/2/2018,7,0,0,1620
-317 Marketplace,"REG Black Bean Patty","Food","FOOD",3/2/2018,2,12,12,325
-317 Marketplace,"REG Buff Chicken","Food","FOOD",3/2/2018,4,24,24,230
-317 Marketplace,"REG Buff Chicken - REG-Bacon","Food","FOOD",3/2/2018,1,1,1,0
-317 Marketplace,"REG Caprese","Food","FOOD",3/2/2018,2,12,12,305
-317 Marketplace,"REG Caprese - REG-Bacon","Food","FOOD",3/2/2018,1,1,1,0
-317 Marketplace,"REG Chicken","Food","FOOD",3/2/2018,4,24,24,225
-317 Marketplace,"REG Chicken - REG-Bacon","Food","FOOD",3/2/2018,1,1,1,0
-317 Marketplace,"REG Chicken Cordon Bleu","Food","FOOD",3/2/2018,1,6,6,245
-317 Marketplace,"REG Chicken Pesto","Food","FOOD",3/2/2018,1,6,6,365
-317 Marketplace,"REG Club","Food","FOOD",3/2/2018,6,30,36,430
-317 Marketplace,"REG Crab Salad","Food","FOOD",3/2/2018,4,18.99,24,270
-317 Marketplace,"REG Crab Salad - REG-Avocado","Food","FOOD",3/2/2018,1,1,1,0
-317 Marketplace,"REG Crab Salad - REG-Sliced Egg","Food","FOOD",3/2/2018,1,1,1,0
-317 Marketplace,"REG French Dip","Food","FOOD",3/2/2018,5,24,30,445
-317 Marketplace,"REG French Dip - REG-Sliced Egg","Food","FOOD",3/2/2018,1,1,1,0
-317 Marketplace,"REG Grinder","Food","FOOD",3/2/2018,4,24,24,345
-317 Marketplace,"REG Grinder - REG-Avocado","Food","FOOD",3/2/2018,1,1,1,0
-317 Marketplace,"REG Ham","Food","FOOD",3/2/2018,11,36,36,145
-317 Marketplace,"REG Ham - REG-Double Cheese","Food","FOOD",3/2/2018,1,1,1,0
-317 Marketplace,"REG Meatball","Food","FOOD",3/2/2018,2,12,12,350
-317 Marketplace,"REG Roast Beef","Food","FOOD",3/2/2018,11,54,66,185
-317 Marketplace,"REG Roast Beef - REG-Double Meat","Food","FOOD",3/2/2018,1,2,2,0
-317 Marketplace,"REG Thank You Turkey","Food","FOOD",3/2/2018,1,6,6,115
-317 Marketplace,"REG Thank You Turkey - REG-Bacon","Food","FOOD",3/2/2018,1,1,1,0
-317 Marketplace,"REG Thank You Turkey - REG-Double Cheese","Food","FOOD",3/2/2018,1,1,1,0
-317 Marketplace,"REG The Avocado","Food","FOOD",3/2/2018,2,12,12,310
-317 Marketplace,"REG The Avocado - REG-Double Cheese","Food","FOOD",3/2/2018,1,1,1,0
-317 Marketplace,"REG Tuna Salad","Food","FOOD",3/2/2018,14,54.99,60,265
-317 Marketplace,"REG Tuna Salad - REG-Avocado","Food","FOOD",3/2/2018,1,1,1,0
-317 Marketplace,"REG Tuna Salad - REG-Sliced Egg","Food","FOOD",3/2/2018,1,1,1,0
-317 Marketplace,"REG Turkey","Food","FOOD",3/2/2018,24,102,114,105
-317 Marketplace,"REG Turkey - REG-Avocado","Food","FOOD",3/2/2018,1,1,1,0
-317 Marketplace,"REG Turkey - REG-Bacon","Food","FOOD",3/2/2018,1,1,1,0
-317 Marketplace,"REG Turkey - REG-Double Meat","Food","FOOD",3/2/2018,1,2,2,0
-317 Marketplace,"REG Turkeywich","Food","FOOD",3/2/2018,1,6,6,120
-317 Marketplace,"REG Wicked","Food","FOOD",3/2/2018,7,43,49,98
-317 Marketplace,"Regular Mayo","Food","FOOD",3/2/2018,4,0,0,1540
-317 Marketplace,"Roast Beef","Food","FOOD",3/2/2018,1,0,0,185
-317 Marketplace,"Roasted Red Peppers","Food","FOOD",3/2/2018,1,0,0,0
-317 Marketplace,"Salt","Food","FOOD",3/2/2018,5,0,0,1715
-317 Marketplace,"Salt & Vinegar Kettle","Food","FOOD",3/2/2018,1,0,0,1988
-317 Marketplace,"SLD Club","Food","FOOD",3/2/2018,2,14,14,1250
-317 Marketplace,"SLD Club - REG-Avocado","Food","FOOD",3/2/2018,1,1,1,0
-317 Marketplace,"SLD Club - REG-Sliced Egg","Food","FOOD",3/2/2018,2,2,2,0
-317 Marketplace,"SLD Turkey","Food","FOOD",3/2/2018,1,7,7,925
-317 Marketplace,"SLD Turkey - REG-Bacon","Food","FOOD",3/2/2018,1,1,1,0
-317 Marketplace,"SLD Turkey - REG-Sliced Egg","Food","FOOD",3/2/2018,1,1,1,0
-317 Marketplace,"Soda","Beverages","NA BEVERAGE",3/2/2018,2,0,0,1375
-317 Marketplace,"Spicy Ranch","Food","FOOD",3/2/2018,1,0,0,1601
-317 Marketplace,"Spinach","Food","FOOD",3/2/2018,5,0,0,1656
-317 Marketplace,"SunChips","Food","FOOD",3/2/2018,2,0,0,1985
-317 Marketplace,"SUP Black Bean Patty","Food","FOOD",3/2/2018,1,11.75,11.75,735
-317 Marketplace,"SUP Chicken","Food","FOOD",3/2/2018,1,11.75,11.75,635
-317 Marketplace,"SUP Egg Salad","Food","FOOD",3/2/2018,1,11.75,11.75,800
-317 Marketplace,"SUP Tuna Salad","Food","FOOD",3/2/2018,1,11.75,11.75,675
-317 Marketplace,"Superfood Wich","Food","FOOD",3/2/2018,6,40.5,46.5,2312
-317 Marketplace,"Swiss","Food","FOOD",3/2/2018,4,0,0,1465
-317 Marketplace,"The Reuben","Food","FOOD",3/2/2018,5,38.75,38.75,388
-317 Marketplace,"Tomato","Food","FOOD",3/2/2018,11,0,0,1635
-317 Marketplace,"Turkey","Food","FOOD",3/2/2018,1,0,0,105
-317 Marketplace,"Ultimate BLT","Food","FOOD",3/2/2018,5,38.75,38.75,411
-317 Marketplace,"Vinegar","Food","FOOD",3/2/2018,3,0,0,1700
-317 Marketplace,"Wheat Bread","Food","FOOD",3/2/2018,8,0,0,1515
-317 Marketplace,"White Bread","Food","FOOD",3/2/2018,13,0,0,1510
-317 Marketplace,"Wrap Corned Beef","Food","FOOD",3/2/2018,1,6,6,9302
-317 Marketplace,"Wrap The Avocado","Food","FOOD",3/2/2018,1,6,6,9151
-317 Marketplace,"Wrap The Avocado - REG-Double Cheese","Food","FOOD",3/2/2018,1,1,1,0
-317 Marketplace,"Wrap Turkey","Food","FOOD",3/2/2018,2,12,12,9101
-317 Marketplace,"Wrap Turkey - REG-Bacon","Food","FOOD",3/2/2018,1,1,1,0
-317 Marketplace,"Wrap Turkey - REG-Sliced Egg","Food","FOOD",3/2/2018,1,1,1,0
-317 Marketplace,"Wrap Wicked","Food","FOOD",3/2/2018,1,6.75,6.75,9008
-317 Marketplace,"Wrap Wicked - REG-Double Meat","Food","FOOD",3/2/2018,1,2,2,0
-317 Marketplace,"Yellow Cheese","Food","FOOD",3/2/2018,1,0,0,1492
-317 Marketplace,"Yellow Mustard","Food","FOOD",3/2/2018,3,0,0,1520
-317 Marketplace,"16oz Shake","Beverages","NA BEVERAGE",3/3/2018,10,32.5,32.5,342
-317 Marketplace,"16oz Shake - 16oz Chocolate","Beverages","NA BEVERAGE",3/3/2018,7,0,0,0
-317 Marketplace,"16oz Shake - 16oz Oreo","Beverages","NA BEVERAGE",3/3/2018,3,0,0,0
-317 Marketplace,"16oz Shake - 16oz Vanilla","Beverages","NA BEVERAGE",3/3/2018,1,0,0,0
-317 Marketplace,"22oz Fountain Drink","Beverages","NA BEVERAGE",3/3/2018,62,111.8,124,251
-317 Marketplace,"22oz Shake","Beverages","NA BEVERAGE",3/3/2018,1,4.25,4.25,343
-317 Marketplace,"22oz Shake - 22oz Chocolate","Beverages","NA BEVERAGE",3/3/2018,1,0,0,0
-317 Marketplace,"32oz  Fountain Drink","Beverages","NA BEVERAGE",3/3/2018,25,45,56.25,1752
-317 Marketplace,"32oz Refill","Beverages","NA BEVERAGE",3/3/2018,6,8.39,10.5,644
-317 Marketplace,"American","Food","FOOD",3/3/2018,1,0,0,1460
-317 Marketplace,"Avocado","Food","FOOD",3/3/2018,1,0,0,1415
-317 Marketplace,"Balsamic Vinagrette","Food","FOOD",3/3/2018,1,0,0,1567
-317 Marketplace,"BBQ","Food","FOOD",3/3/2018,1,0,0,1565
-317 Marketplace,"Bell Peppers","Food","FOOD",3/3/2018,1,0,0,1665
-317 Marketplace,"Black Olives","Food","FOOD",3/3/2018,4,0,0,1670
-317 Marketplace,"Buffalo","Food","FOOD",3/3/2018,3,0,0,1570
-317 Marketplace,"Candy Token","Food","FOOD",3/3/2018,1,0,0,1954
-317 Marketplace,"Caramel Onion","Food","FOOD",3/3/2018,1,0,0,1615
-317 Marketplace,"Cheddar","Food","FOOD",3/3/2018,7,0,0,1470
-317 Marketplace,"Cheese Pizza","Food","FOOD",3/3/2018,3,15,15,1345
-317 Marketplace,"Chipotle Mayo","Food","FOOD",3/3/2018,1,0,0,1547
-317 Marketplace,"Chips","Food","FOOD",3/3/2018,89,100.99,111.25,1425
-317 Marketplace,"Choc Milk","Beverages","NA BEVERAGE",3/3/2018,6,0,0,1365
-317 Marketplace,"Cobb Salad Wrap","Food","FOOD",3/3/2018,1,7.5,7.5,2324
-317 Marketplace,"Coldwich","Food","FOOD",3/3/2018,2,0,0,1732
-317 Marketplace,"Courtney's Cake","Food","FOOD",3/3/2018,5,9.75,9.75,60001
-317 Marketplace,"Courtney's Cookie","Food","FOOD",3/3/2018,5,7.5,7.5,1447
-317 Marketplace,"Crispy Strings","Food","FOOD",3/3/2018,1,0,0,1625
-317 Marketplace,"Cucumbers","Food","FOOD",3/3/2018,2,0,0,1650
-317 Marketplace,"Dijon Mustard","Food","FOOD",3/3/2018,1,0,0,1525
-317 Marketplace,"Drink","Beverages","NA BEVERAGE",3/3/2018,3,0,0,1746
-317 Marketplace,"Drink - 22oz Fountain Drink","Beverages","NA BEVERAGE",3/3/2018,3,6,6,0
-317 Marketplace,"Grilled Cheese","Food","FOOD",3/3/2018,6,30,30,1335
-317 Marketplace,"Gyro Favorite","Food","FOOD",3/3/2018,8,62,62,386
-317 Marketplace,"Ham","Food","FOOD",3/3/2018,1,0,0,145
-317 Marketplace,"Hotwich","Food","FOOD",3/3/2018,14,0,0,1731
-317 Marketplace,"Italian Club","Food","FOOD",3/3/2018,3,23.25,23.25,2314
-317 Marketplace,"Jalapenos","Food","FOOD",3/3/2018,3,0,0,1660
-317 Marketplace,"Juice","Beverages","NA BEVERAGE",3/3/2018,2,0,0,1370
-317 Marketplace,"Kid Apple Slice","Food","FOOD",3/3/2018,1,0,0,1384
-317 Marketplace,"Kid Carrots","Food","FOOD",3/3/2018,1,0,0,1387
-317 Marketplace,"Kids Rollups","Food","FOOD",3/3/2018,2,10,10,1326
-317 Marketplace,"Kidswich","Food","FOOD",3/3/2018,4,20,20,1325
-317 Marketplace,"Lettuce","Food","FOOD",3/3/2018,10,0,0,1630
-317 Marketplace,"Lettucewich Black Bean","Food","FOOD",3/3/2018,1,0,6,9653
-317 Marketplace,"Lettucewich Buff Chicken","Food","FOOD",3/3/2018,1,6,6,9552
-317 Marketplace,"Lettucewich Chick Pesto","Food","FOOD",3/3/2018,1,6,6,9553
-317 Marketplace,"Lettucewich Club","Food","FOOD",3/3/2018,2,2,12,9507
-317 Marketplace,"Lettucewich Turkey","Food","FOOD",3/3/2018,2,12,12,9601
-317 Marketplace,"Light Mayo","Food","FOOD",3/3/2018,2,0,0,1545
-317 Marketplace,"LRG Black Bean Patty","Food","FOOD",3/3/2018,3,25.5,25.5,70
-317 Marketplace,"LRG Buffalo Chicken","Food","FOOD",3/3/2018,6,51,51,47
-317 Marketplace,"LRG Buffalo Chicken - LRG-Bacon","Food","FOOD",3/3/2018,2,3,3,0
-317 Marketplace,"LRG Buffalo Chicken - LRG-Double Cheese","Food","FOOD",3/3/2018,2,3,3,0
-317 Marketplace,"LRG Chicken","Food","FOOD",3/3/2018,1,8.5,8.5,46
-317 Marketplace,"LRG Chicken - LRG-Double Meat","Food","FOOD",3/3/2018,1,3,3,0
-317 Marketplace,"LRG Chicken Cordon Bleu","Food","FOOD",3/3/2018,2,11,17,50
-317 Marketplace,"LRG Chicken Pesto","Food","FOOD",3/3/2018,2,17,17,80
-317 Marketplace,"LRG Club","Food","FOOD",3/3/2018,1,8.5,8.5,7
-317 Marketplace,"LRG Corned Beef","Food","FOOD",3/3/2018,1,8.5,8.5,37
-317 Marketplace,"LRG Corned Beef - LRG-Bacon","Food","FOOD",3/3/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Crab Salad","Food","FOOD",3/3/2018,1,8.5,8.5,57
-317 Marketplace,"LRG French Dip","Food","FOOD",3/3/2018,1,8.5,8.5,10
-317 Marketplace,"LRG Grinder","Food","FOOD",3/3/2018,4,34,34,76
-317 Marketplace,"LRG Grinder - LRG-Avocado","Food","FOOD",3/3/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Grinder - LRG-Double Cheese","Food","FOOD",3/3/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Grinder - LRG-Double Meat","Food","FOOD",3/3/2018,1,3,3,0
-317 Marketplace,"LRG Ham","Food","FOOD",3/3/2018,2,17,17,26
-317 Marketplace,"LRG Ham - LRG-Bacon","Food","FOOD",3/3/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Ham - LRG-Double Cheese","Food","FOOD",3/3/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Meatball","Food","FOOD",3/3/2018,1,8.5,8.5,77
-317 Marketplace,"LRG Pepperoni Pizzawich","Food","FOOD",3/3/2018,1,8.5,8.5,79
-317 Marketplace,"LRG Pepperoni Pizzawich - LRG-Bacon","Food","FOOD",3/3/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Roast Beef","Food","FOOD",3/3/2018,1,8.5,8.5,36
-317 Marketplace,"LRG Thank You Turkey","Food","FOOD",3/3/2018,1,8.5,8.5,18
-317 Marketplace,"LRG Tuna Salad","Food","FOOD",3/3/2018,1,8.5,8.5,56
-317 Marketplace,"LRG Turkey","Food","FOOD",3/3/2018,4,22,34,16
-317 Marketplace,"LRG Turkeywich","Food","FOOD",3/3/2018,1,8.5,8.5,19
-317 Marketplace,"LRG Wicked","Food","FOOD",3/3/2018,4,40,40,99
-317 Marketplace,"LRG Wicked - LRG-Double Meat","Food","FOOD",3/3/2018,2,6,6,0
-317 Marketplace,"Meatball Grinder","Food","FOOD",3/3/2018,2,9.5,15.5,382
-317 Marketplace,"Milk","Beverages","NA BEVERAGE",3/3/2018,1,0,0,1360
-317 Marketplace,"Mozzarella","Food","FOOD",3/3/2018,1,0,0,1485
-317 Marketplace,"Mushrooms","Food","FOOD",3/3/2018,1,0,0,1680
-317 Marketplace,"Oil","Food","FOOD",3/3/2018,2,0,0,1695
-317 Marketplace,"Olive Salad","Food","FOOD",3/3/2018,1,0,0,1675
-317 Marketplace,"Pepper","Food","FOOD",3/3/2018,4,0,0,1720
-317 Marketplace,"Pepper Jack","Food","FOOD",3/3/2018,3,0,0,1480
-317 Marketplace,"Philly Cheesesteak","Food","FOOD",3/3/2018,10,77.5,77.5,392
-317 Marketplace,"Pickles","Food","FOOD",3/3/2018,2,0,0,1640
-317 Marketplace,"Provolone","Food","FOOD",3/3/2018,11,0,0,1475
-317 Marketplace,"PX Loyalty","Retail","RETAIL",3/3/2018,52,0,0,80020
-317 Marketplace,"PX Point Accrual","Retail","RETAIL",3/3/2018,45,0,0,80010
-317 Marketplace,"Ranch","Food","FOOD",3/3/2018,3,0,0,1600
-317 Marketplace,"Red Onions","Food","FOOD",3/3/2018,6,0,0,1620
-317 Marketplace,"REG Black Bean Patty","Food","FOOD",3/3/2018,9,49,54,325
-317 Marketplace,"REG Black Bean Patty - REG-Avocado","Food","FOOD",3/3/2018,4,4,4,0
-317 Marketplace,"REG Black Bean Patty - REG-Sliced Egg","Food","FOOD",3/3/2018,1,1,1,0
-317 Marketplace,"REG Buff Chicken","Food","FOOD",3/3/2018,8,47.4,48,230
-317 Marketplace,"REG Caprese","Food","FOOD",3/3/2018,7,36,42,305
-317 Marketplace,"REG Caprese - REG-Avocado","Food","FOOD",3/3/2018,1,1,1,0
-317 Marketplace,"REG Chicken","Food","FOOD",3/3/2018,6,33,36,225
-317 Marketplace,"REG Chicken - REG-Avocado","Food","FOOD",3/3/2018,1,1,1,0
-317 Marketplace,"REG Chicken - REG-Bacon","Food","FOOD",3/3/2018,4,4,4,0
-317 Marketplace,"REG Chicken Cordon Bleu","Food","FOOD",3/3/2018,1,6,6,245
-317 Marketplace,"REG Chicken Pesto","Food","FOOD",3/3/2018,5,24,30,365
-317 Marketplace,"REG Chicken Pesto - REG-Bacon","Food","FOOD",3/3/2018,1,1,1,0
-317 Marketplace,"REG Chicken Salad","Food","FOOD",3/3/2018,1,6,6,395
-317 Marketplace,"REG Club","Food","FOOD",3/3/2018,6,36,36,430
-317 Marketplace,"REG Corned Beef","Food","FOOD",3/3/2018,2,12,12,190
-317 Marketplace,"REG Crab Salad","Food","FOOD",3/3/2018,1,6,6,270
-317 Marketplace,"REG French Dip","Food","FOOD",3/3/2018,5,29.4,30,445
-317 Marketplace,"REG French Dip - REG-Double Cheese","Food","FOOD",3/3/2018,1,1,1,0
-317 Marketplace,"REG Grinder","Food","FOOD",3/3/2018,9,49,54,345
-317 Marketplace,"REG Ham","Food","FOOD",3/3/2018,7,42,42,145
-317 Marketplace,"REG Ham - REG-Avocado","Food","FOOD",3/3/2018,1,1,1,0
-317 Marketplace,"REG Ham - REG-Bacon","Food","FOOD",3/3/2018,1,1,1,0
-317 Marketplace,"REG Meatball","Food","FOOD",3/3/2018,2,11.4,12,350
-317 Marketplace,"REG Muffuletta","Food","FOOD",3/3/2018,3,18,18,355
-317 Marketplace,"REG Roast Beef","Food","FOOD",3/3/2018,2,12,12,185
-317 Marketplace,"REG Surf & Turf","Food","FOOD",3/3/2018,2,12,12,275
-317 Marketplace,"REG Thank You Turkey","Food","FOOD",3/3/2018,1,6,6,115
-317 Marketplace,"REG The Avocado","Food","FOOD",3/3/2018,6,30,36,310
-317 Marketplace,"REG The Avocado - REG-Avocado","Food","FOOD",3/3/2018,1,1,1,0
-317 Marketplace,"REG The Avocado - REG-Bacon","Food","FOOD",3/3/2018,1,1,1,0
-317 Marketplace,"REG Tuna Salad","Food","FOOD",3/3/2018,1,6,6,265
-317 Marketplace,"REG Turkey","Food","FOOD",3/3/2018,23,121.86,138,105
-317 Marketplace,"REG Turkey - REG-Avocado","Food","FOOD",3/3/2018,3,3,3,0
-317 Marketplace,"REG Turkey - REG-Bacon","Food","FOOD",3/3/2018,5,4.14,5,0
-317 Marketplace,"REG Turkey - REG-Double Cheese","Food","FOOD",3/3/2018,3,3,3,0
-317 Marketplace,"REG Turkeywich","Food","FOOD",3/3/2018,1,6,6,120
-317 Marketplace,"REG Wicked","Food","FOOD",3/3/2018,3,17.5,21,98
-317 Marketplace,"Regular Mayo","Food","FOOD",3/3/2018,8,0,0,1540
-317 Marketplace,"Roast Beef","Food","FOOD",3/3/2018,3,0,0,185
-317 Marketplace,"Salt","Food","FOOD",3/3/2018,4,0,0,1715
-317 Marketplace,"Salt & Vinegar Kettle","Food","FOOD",3/3/2018,1,0,0,1988
-317 Marketplace,"SLD Crab Salad","Food","FOOD",3/3/2018,1,7,7,1090
-317 Marketplace,"SLD Roast Beef","Food","FOOD",3/3/2018,1,7,7,1005
-317 Marketplace,"Soda","Beverages","NA BEVERAGE",3/3/2018,6,0,0,1375
-317 Marketplace,"Spicy Ranch","Food","FOOD",3/3/2018,2,0,0,1601
-317 Marketplace,"Spinach","Food","FOOD",3/3/2018,2,0,0,1656
-317 Marketplace,"SUP Buffalo Chicken","Food","FOOD",3/3/2018,1,11.75,11.75,640
-317 Marketplace,"SUP Ham","Food","FOOD",3/3/2018,1,11.75,11.75,555
-317 Marketplace,"SUP Ham - SUP-Bacon","Food","FOOD",3/3/2018,1,2,2,0
-317 Marketplace,"SUP Ham - SUP-Double Cheese","Food","FOOD",3/3/2018,1,2,2,0
-317 Marketplace,"SUP Ham - SUP-Double Meat","Food","FOOD",3/3/2018,1,4,4,0
-317 Marketplace,"Superfood Wich","Food","FOOD",3/3/2018,5,38.75,38.75,2312
-317 Marketplace,"Swiss","Food","FOOD",3/3/2018,1,0,0,1465
-317 Marketplace,"The Reuben","Food","FOOD",3/3/2018,2,9.34,15.5,388
-317 Marketplace,"Tomato","Food","FOOD",3/3/2018,12,0,0,1635
-317 Marketplace,"Traditional Tray Large","Catering","CATERING",3/3/2018,1,95,95,7210
-317 Marketplace,"Turkey","Food","FOOD",3/3/2018,2,0,0,105
-317 Marketplace,"Tzatziki","Food","FOOD",3/3/2018,3,0,0,1602
-317 Marketplace,"Ultimate BLT","Food","FOOD",3/3/2018,4,25,31,411
-317 Marketplace,"Vinegar","Food","FOOD",3/3/2018,2,0,0,1700
-317 Marketplace,"Wheat Bread","Food","FOOD",3/3/2018,2,0,0,1515
-317 Marketplace,"White Bread","Food","FOOD",3/3/2018,11,0,0,1510
-317 Marketplace,"Wrap Black Bean","Food","FOOD",3/3/2018,1,5.14,6,9153
-317 Marketplace,"Wrap Black Bean - REG-Avocado","Food","FOOD",3/3/2018,1,0.86,1,0
-317 Marketplace,"Wrap Turkey","Food","FOOD",3/3/2018,2,6,12,9101
-317 Marketplace,"Yellow Mustard","Food","FOOD",3/3/2018,5,0,0,1520
-317 Marketplace,"16oz Shake","Beverages","NA BEVERAGE",3/4/2018,25,79.5,79.5,342
-317 Marketplace,"16oz Shake - 16oz Chocolate","Beverages","NA BEVERAGE",3/4/2018,9,0,0,0
-317 Marketplace,"16oz Shake - 16oz Oreo","Beverages","NA BEVERAGE",3/4/2018,10,0,0,0
-317 Marketplace,"16oz Shake - 16oz Strawberry","Beverages","NA BEVERAGE",3/4/2018,3,0,0,0
-317 Marketplace,"16oz Shake - 16oz Vanilla","Beverages","NA BEVERAGE",3/4/2018,2,0,0,0
-317 Marketplace,"16oz Vanilla","Beverages","NA BEVERAGE",3/4/2018,1,0,0,1811
-317 Marketplace,"22oz Fountain Drink","Beverages","NA BEVERAGE",3/4/2018,47,86,94,251
-317 Marketplace,"32oz  Fountain Drink","Beverages","NA BEVERAGE",3/4/2018,11,22.5,24.75,1752
-317 Marketplace,"32oz Refill","Beverages","NA BEVERAGE",3/4/2018,2,3.5,3.5,644
-317 Marketplace,"Avocado","Food","FOOD",3/4/2018,4,0,0,1415
-317 Marketplace,"Banana Peppers","Food","FOOD",3/4/2018,1,0,0,1666
-317 Marketplace,"Bell Peppers","Food","FOOD",3/4/2018,3,0,0,1665
-317 Marketplace,"Black Olives","Food","FOOD",3/4/2018,4,0,0,1670
-317 Marketplace,"Candy Token","Food","FOOD",3/4/2018,7,0,0,1954
-317 Marketplace,"Cheddar","Food","FOOD",3/4/2018,5,0,0,1470
-317 Marketplace,"Cheese Pizza","Food","FOOD",3/4/2018,3,14.17,15,1345
-317 Marketplace,"Chipotle Mayo","Food","FOOD",3/4/2018,4,0,0,1547
-317 Marketplace,"Chips","Food","FOOD",3/4/2018,107,130,133.75,1425
-317 Marketplace,"Choc Milk","Beverages","NA BEVERAGE",3/4/2018,9,0,0,1365
-317 Marketplace,"Cobb Salad Wrap","Food","FOOD",3/4/2018,4,30,30,2324
-317 Marketplace,"Coldwich","Food","FOOD",3/4/2018,3,0,0,1732
-317 Marketplace,"Courtney's Cake","Food","FOOD",3/4/2018,1,1.95,1.95,60001
-317 Marketplace,"Courtney's Cookie","Food","FOOD",3/4/2018,2,3,3,1447
-317 Marketplace,"Crispy Strings","Food","FOOD",3/4/2018,2,0,0,1625
-317 Marketplace,"CrushRed Pepp","Food","FOOD",3/4/2018,1,0,0,1730
-317 Marketplace,"Cucumbers","Food","FOOD",3/4/2018,2,0,0,1650
-317 Marketplace,"Deli Mustard","Food","FOOD",3/4/2018,1,0,0,1535
-317 Marketplace,"Drink","Beverages","NA BEVERAGE",3/4/2018,13,0,0,1746
-317 Marketplace,"Drink - 22oz Fountain Drink","Beverages","NA BEVERAGE",3/4/2018,11,22,22,0
-317 Marketplace,"Drink - 32oz  Fountain Drink","Beverages","NA BEVERAGE",3/4/2018,2,4.5,4.5,0
-317 Marketplace,"Energy Drink","Beverages","NA BEVERAGE",3/4/2018,1,2.25,2.25,1765
-317 Marketplace,"Grilled Cheese","Food","FOOD",3/4/2018,8,40,40,1335
-317 Marketplace,"Gyro Favorite","Food","FOOD",3/4/2018,7,54.25,54.25,386
-317 Marketplace,"Ham","Food","FOOD",3/4/2018,2,0,0,145
-317 Marketplace,"Honey Mustard","Food","FOOD",3/4/2018,1,0,0,1530
-317 Marketplace,"Hotwich","Food","FOOD",3/4/2018,10,0,0,1731
-317 Marketplace,"Hummus","Food","FOOD",3/4/2018,1,0,0,315
-317 Marketplace,"Italian Club","Food","FOOD",3/4/2018,8,50.37,62,2314
-317 Marketplace,"Jalapenos","Food","FOOD",3/4/2018,2,0,0,1660
-317 Marketplace,"Juice","Beverages","NA BEVERAGE",3/4/2018,6,0,0,1370
-317 Marketplace,"Kid Apple Slice","Food","FOOD",3/4/2018,7,0,0,1384
-317 Marketplace,"Kid Carrots","Food","FOOD",3/4/2018,2,0,0,1387
-317 Marketplace,"Kids Rollups","Food","FOOD",3/4/2018,1,5,5,1326
-317 Marketplace,"Kidswich","Food","FOOD",3/4/2018,8,40,40,1325
-317 Marketplace,"Lay's Regular","Food","FOOD",3/4/2018,1,0,0,1982
-317 Marketplace,"Lettuce","Food","FOOD",3/4/2018,13,0,0,1630
-317 Marketplace,"Lettucewich Grinder","Food","FOOD",3/4/2018,1,6,6,9703
-317 Marketplace,"Lettucewich Grinder - REG-Double Cheese*","Food","FOOD",3/4/2018,1,1,1,0
-317 Marketplace,"Lettucewich Roast Beef","Food","FOOD",3/4/2018,1,6,6,9801
-317 Marketplace,"Lettucewich Turkeywich","Food","FOOD",3/4/2018,1,6,6,9602
-317 Marketplace,"Light Mayo","Food","FOOD",3/4/2018,1,0,0,1545
-317 Marketplace,"LRG Black Bean Patty","Food","FOOD",3/4/2018,1,7.08,8.5,70
-317 Marketplace,"LRG Buffalo Chicken","Food","FOOD",3/4/2018,2,17,17,47
-317 Marketplace,"LRG Buffalo Chicken - LRG-Avocado","Food","FOOD",3/4/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Caprese","Food","FOOD",3/4/2018,2,17,17,66
-317 Marketplace,"LRG Caprese - LRG-Avocado","Food","FOOD",3/4/2018,2,3,3,0
-317 Marketplace,"LRG Caprese - LRG-Sliced Egg","Food","FOOD",3/4/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Chicken","Food","FOOD",3/4/2018,3,20.4,25.5,46
-317 Marketplace,"LRG Chicken - LRG-Bacon","Food","FOOD",3/4/2018,2,2.1,3,0
-317 Marketplace,"LRG Chicken Cordon Bleu","Food","FOOD",3/4/2018,1,8.5,8.5,50
-317 Marketplace,"LRG Chicken Cordon Bleu - LRG-Double Cheese","Food","FOOD",3/4/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Club","Food","FOOD",3/4/2018,2,17,17,7
-317 Marketplace,"LRG Corned Beef","Food","FOOD",3/4/2018,1,8.5,8.5,37
-317 Marketplace,"LRG Grinder","Food","FOOD",3/4/2018,3,25.5,25.5,76
-317 Marketplace,"LRG Grinder - LRG-Double Meat","Food","FOOD",3/4/2018,1,3,3,0
-317 Marketplace,"LRG Ham","Food","FOOD",3/4/2018,3,25.5,25.5,26
-317 Marketplace,"LRG Meatball","Food","FOOD",3/4/2018,1,2.5,8.5,77
-317 Marketplace,"LRG Muffuletta","Food","FOOD",3/4/2018,1,8.5,8.5,78
-317 Marketplace,"LRG Pepperoni Pizzawich","Food","FOOD",3/4/2018,2,17,17,79
-317 Marketplace,"LRG Roast Beef","Food","FOOD",3/4/2018,3,19.5,25.5,36
-317 Marketplace,"LRG The Avocado","Food","FOOD",3/4/2018,1,8.5,8.5,67
-317 Marketplace,"LRG The Avocado - LRG-Avocado","Food","FOOD",3/4/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Turkey","Food","FOOD",3/4/2018,5,42.5,42.5,16
-317 Marketplace,"LRG Turkey - LRG-Bacon","Food","FOOD",3/4/2018,2,3,3,0
-317 Marketplace,"LRG Turkey - LRG-Double Meat","Food","FOOD",3/4/2018,1,3,3,0
-317 Marketplace,"LRG Wicked","Food","FOOD",3/4/2018,3,30,30,99
-317 Marketplace,"LRG Wicked - LRG-Double Meat","Food","FOOD",3/4/2018,2,6,6,0
-317 Marketplace,"Marinara","Food","FOOD",3/4/2018,1,0,0,1575
-317 Marketplace,"Meatball Grinder","Food","FOOD",3/4/2018,5,38.75,38.75,382
-317 Marketplace,"Milk","Beverages","NA BEVERAGE",3/4/2018,2,0,0,1360
-317 Marketplace,"Mozzarella","Food","FOOD",3/4/2018,4,0,0,1485
-317 Marketplace,"Mushrooms","Food","FOOD",3/4/2018,1,0,0,1680
-317 Marketplace,"Oil","Food","FOOD",3/4/2018,2,0,0,1695
-317 Marketplace,"Olive Salad","Food","FOOD",3/4/2018,2,0,0,1675
-317 Marketplace,"Oregano","Food","FOOD",3/4/2018,3,0,0,1705
-317 Marketplace,"PB & J","Food","FOOD",3/4/2018,6,30,30,1330
-317 Marketplace,"Pepper","Food","FOOD",3/4/2018,3,0,0,1720
-317 Marketplace,"Pepper Jack","Food","FOOD",3/4/2018,2,0,0,1480
-317 Marketplace,"Pesto","Food","FOOD",3/4/2018,2,0,0,1580
-317 Marketplace,"Philly Cheesesteak","Food","FOOD",3/4/2018,9,69.75,69.75,392
-317 Marketplace,"Pickles","Food","FOOD",3/4/2018,4,0,0,1640
-317 Marketplace,"Provolone","Food","FOOD",3/4/2018,4,0,0,1475
-317 Marketplace,"PX Loyalty","Retail","RETAIL",3/4/2018,28,0,0,80020
-317 Marketplace,"PX Point Accrual","Retail","RETAIL",3/4/2018,26,0,0,80010
-317 Marketplace,"Ranch","Food","FOOD",3/4/2018,2,0,0,1600
-317 Marketplace,"Red Onions","Food","FOOD",3/4/2018,3,0,0,1620
-317 Marketplace,"REG Black Bean Patty","Food","FOOD",3/4/2018,1,6,6,325
-317 Marketplace,"REG Black Bean Patty - REG-Avocado","Food","FOOD",3/4/2018,1,1,1,0
-317 Marketplace,"REG Buff Chicken","Food","FOOD",3/4/2018,6,36,36,230
-317 Marketplace,"REG Caprese","Food","FOOD",3/4/2018,1,6,6,305
-317 Marketplace,"REG Chicken","Food","FOOD",3/4/2018,8,45,48,225
-317 Marketplace,"REG Chicken - REG-Bacon","Food","FOOD",3/4/2018,1,1,1,0
-317 Marketplace,"REG Chicken Cordon Bleu","Food","FOOD",3/4/2018,2,12,12,245
-317 Marketplace,"REG Chicken Cordon Bleu - REG-Double Cheese","Food","FOOD",3/4/2018,1,1,1,0
-317 Marketplace,"REG Chicken Pesto","Food","FOOD",3/4/2018,4,24,24,365
-317 Marketplace,"REG Chicken Pesto - REG-Sliced Egg","Food","FOOD",3/4/2018,2,2,2,0
-317 Marketplace,"REG Chicken Salad","Food","FOOD",3/4/2018,2,12,12,395
-317 Marketplace,"REG Club","Food","FOOD",3/4/2018,4,24,24,430
-317 Marketplace,"REG Crab Salad","Food","FOOD",3/4/2018,2,12,12,270
-317 Marketplace,"REG Egg Salad","Food","FOOD",3/4/2018,1,6,6,390
-317 Marketplace,"REG French Dip","Food","FOOD",3/4/2018,2,12,12,445
-317 Marketplace,"REG Grinder","Food","FOOD",3/4/2018,4,24,24,345
-317 Marketplace,"REG Grinder - REG-Double Meat","Food","FOOD",3/4/2018,1,2,2,0
-317 Marketplace,"REG Ham","Food","FOOD",3/4/2018,9,51,54,145
-317 Marketplace,"REG Ham - REG-Avocado","Food","FOOD",3/4/2018,1,1,1,0
-317 Marketplace,"REG Ham - REG-Bacon","Food","FOOD",3/4/2018,1,1,1,0
-317 Marketplace,"REG Ham - REG-Double Meat","Food","FOOD",3/4/2018,1,2,2,0
-317 Marketplace,"REG Ham - REG-Sliced Egg","Food","FOOD",3/4/2018,1,1,1,0
-317 Marketplace,"REG Meatball","Food","FOOD",3/4/2018,1,6,6,350
-317 Marketplace,"REG Pepperoni Pizzawich","Food","FOOD",3/4/2018,4,24,24,360
-317 Marketplace,"REG Roast Beef","Food","FOOD",3/4/2018,5,30,30,185
-317 Marketplace,"REG Roast Beef - REG-Bacon","Food","FOOD",3/4/2018,1,1,1,0
-317 Marketplace,"REG Surf & Turf","Food","FOOD",3/4/2018,1,6,6,275
-317 Marketplace,"REG Tuna Salad","Food","FOOD",3/4/2018,1,0,6,265
-317 Marketplace,"REG Turkey","Food","FOOD",3/4/2018,31,168,174,105
-317 Marketplace,"REG Turkey - REG-Avocado","Food","FOOD",3/4/2018,2,2,2,0
-317 Marketplace,"REG Turkey - REG-Bacon","Food","FOOD",3/4/2018,6,6,6,0
-317 Marketplace,"REG Turkey - REG-Double Meat","Food","FOOD",3/4/2018,3,6,6,0
-317 Marketplace,"REG Turkeywich","Food","FOOD",3/4/2018,3,12,18,120
-317 Marketplace,"REG Turkeywich - REG-Avocado","Food","FOOD",3/4/2018,1,1,1,0
-317 Marketplace,"REG Wicked","Food","FOOD",3/4/2018,3,20,21,98
-317 Marketplace,"Regular Mayo","Food","FOOD",3/4/2018,2,0,0,1540
-317 Marketplace,"Roast Beef","Food","FOOD",3/4/2018,1,0,0,185
-317 Marketplace,"Salt","Food","FOOD",3/4/2018,2,0,0,1715
-317 Marketplace,"Salt & Vinegar Kettle","Food","FOOD",3/4/2018,1,0,0,1988
-317 Marketplace,"SLD Black Bean Patty","Food","FOOD",3/4/2018,2,14,14,1145
-317 Marketplace,"SLD Black Bean Patty - REG-Avocado","Food","FOOD",3/4/2018,1,1,1,0
-317 Marketplace,"SLD Egg Salad","Food","FOOD",3/4/2018,1,7,7,1210
-317 Marketplace,"SLD Tuna Salad","Food","FOOD",3/4/2018,1,1,7,1085
-317 Marketplace,"SLD Tuna Salad - REG-Sliced Egg","Food","FOOD",3/4/2018,1,1,1,0
-317 Marketplace,"Soda","Beverages","NA BEVERAGE",3/4/2018,8,0,0,1375
-317 Marketplace,"Spinach","Food","FOOD",3/4/2018,2,0,0,1656
-317 Marketplace,"SUP Buffalo Chicken","Food","FOOD",3/4/2018,1,11.75,11.75,640
-317 Marketplace,"SUP Chicken Pesto","Food","FOOD",3/4/2018,2,11.75,23.5,775
-317 Marketplace,"SUP Corned Beef","Food","FOOD",3/4/2018,1,11.75,11.75,600
-317 Marketplace,"SUP Corned Beef - SUP-Double Cheese","Food","FOOD",3/4/2018,1,2,2,0
-317 Marketplace,"SUP Wicked","Food","FOOD",3/4/2018,2,27.5,27.5,507
-317 Marketplace,"SUP Wicked - SUP-Avocado","Food","FOOD",3/4/2018,1,2,2,0
-317 Marketplace,"Superfood Wich","Food","FOOD",3/4/2018,1,7.75,7.75,2312
-317 Marketplace,"Swiss","Food","FOOD",3/4/2018,2,0,0,1465
-317 Marketplace,"The Reuben","Food","FOOD",3/4/2018,5,38.75,38.75,388
-317 Marketplace,"Tomato","Food","FOOD",3/4/2018,10,0,0,1635
-317 Marketplace,"Turkey","Food","FOOD",3/4/2018,6,0,0,105
-317 Marketplace,"Ultimate BLT","Food","FOOD",3/4/2018,11,85.25,85.25,411
-317 Marketplace,"Vinegar","Food","FOOD",3/4/2018,2,0,0,1700
-317 Marketplace,"Wheat Bread","Food","FOOD",3/4/2018,2,0,0,1515
-317 Marketplace,"White Bread","Food","FOOD",3/4/2018,13,0,0,1510
-317 Marketplace,"Wrap Chicken Pesto","Food","FOOD",3/4/2018,1,6,6,9053
-317 Marketplace,"Wrap Club","Food","FOOD",3/4/2018,1,6,6,9007
-317 Marketplace,"Wrap Club - REG-Avocado","Food","FOOD",3/4/2018,1,1,1,0
-317 Marketplace,"Wrap Cordon Bleu","Food","FOOD",3/4/2018,1,6,6,9253
-317 Marketplace,"Wrap Cordon Bleu - REG-Avocado","Food","FOOD",3/4/2018,1,1,1,0
-317 Marketplace,"Wrap The Avocado","Food","FOOD",3/4/2018,1,6,6,9151
-317 Marketplace,"Wrap Turkey","Food","FOOD",3/4/2018,1,6,6,9101
-317 Marketplace,"Wrap Turkeywich","Food","FOOD",3/4/2018,1,6,6,9102
-317 Marketplace,"Yellow Cheese","Food","FOOD",3/4/2018,1,0,0,1492
-317 Marketplace,"Yellow Mustard","Food","FOOD",3/4/2018,1,0,0,1520
-317 Marketplace,"1000 Island","Food","FOOD",3/5/2018,2,0,0,1595
-317 Marketplace,"16oz Shake","Beverages","NA BEVERAGE",3/5/2018,13,42.25,42.25,342
-317 Marketplace,"16oz Shake - 16oz Chocolate","Beverages","NA BEVERAGE",3/5/2018,3,0,0,0
-317 Marketplace,"16oz Shake - 16oz Oreo","Beverages","NA BEVERAGE",3/5/2018,7,0,0,0
-317 Marketplace,"16oz Shake - 16oz Strawberry","Beverages","NA BEVERAGE",3/5/2018,2,0,0,0
-317 Marketplace,"16oz Shake - 16oz Vanilla","Beverages","NA BEVERAGE",3/5/2018,1,0,0,0
-317 Marketplace,"22oz Fountain Drink","Beverages","NA BEVERAGE",3/5/2018,26,45.21,52,251
-317 Marketplace,"32oz  Fountain Drink","Beverages","NA BEVERAGE",3/5/2018,22,47.25,49.5,1752
-317 Marketplace,"32oz Refill","Beverages","NA BEVERAGE",3/5/2018,3,5.25,5.25,644
-317 Marketplace,"American","Food","FOOD",3/5/2018,2,0,0,1460
-317 Marketplace,"Avocado","Food","FOOD",3/5/2018,2,0,0,1415
-317 Marketplace,"Banana Peppers","Food","FOOD",3/5/2018,2,0,0,1666
-317 Marketplace,"BBQ Kettle Chips","Food","FOOD",3/5/2018,1,0,0,1987
-317 Marketplace,"Bell Peppers","Food","FOOD",3/5/2018,1,0,0,1665
-317 Marketplace,"Black Olives","Food","FOOD",3/5/2018,3,0,0,1670
-317 Marketplace,"Brownie","Food","FOOD",3/5/2018,16,0,0,1431
-317 Marketplace,"Buffalo","Food","FOOD",3/5/2018,6,0,0,1570
-317 Marketplace,"Caramel Onion","Food","FOOD",3/5/2018,1,0,0,1615
-317 Marketplace,"Cheddar","Food","FOOD",3/5/2018,3,0,0,1470
-317 Marketplace,"Chipotle Mayo","Food","FOOD",3/5/2018,1,0,0,1547
-317 Marketplace,"Chips","Food","FOOD",3/5/2018,63,77,78.75,1425
-317 Marketplace,"Choc Milk","Beverages","NA BEVERAGE",3/5/2018,1,0,0,1365
-317 Marketplace,"Coldwich","Food","FOOD",3/5/2018,1,0,0,1732
-317 Marketplace,"Courtney's Cookie","Food","FOOD",3/5/2018,4,4.5,6,1447
-317 Marketplace,"Cucumbers","Food","FOOD",3/5/2018,2,0,0,1650
-317 Marketplace,"Deluxe Box Lunch","Catering","CATERING",3/5/2018,16,180,180,7270
-317 Marketplace,"Deluxe Box Lunch - Caprese Pasta Salad","Catering","CATERING",3/5/2018,16,0,0,0
-317 Marketplace,"Drink","Beverages","NA BEVERAGE",3/5/2018,10,0,0,1746
-317 Marketplace,"Drink - 22oz Fountain Drink","Beverages","NA BEVERAGE",3/5/2018,8,16,16,0
-317 Marketplace,"Drink - 32oz  Fountain Drink","Beverages","NA BEVERAGE",3/5/2018,2,4.5,4.5,0
-317 Marketplace,"Gyro Favorite","Food","FOOD",3/5/2018,2,15.5,15.5,386
-317 Marketplace,"Gyro Favorite - REG-Double Meat","Food","FOOD",3/5/2018,1,2,2,0
-317 Marketplace,"Ham","Food","FOOD",3/5/2018,1,0,0,145
-317 Marketplace,"Hotwich","Food","FOOD",3/5/2018,22,0,0,1731
-317 Marketplace,"House Chips","Food","FOOD",3/5/2018,17,0,0,1981
-317 Marketplace,"Hummus","Food","FOOD",3/5/2018,1,0,0,315
-317 Marketplace,"Italian Club","Food","FOOD",3/5/2018,5,38.75,38.75,2314
-317 Marketplace,"Jalapeno Hummus","Food","FOOD",3/5/2018,1,0,0,1587
-317 Marketplace,"Jalapeno Kettle Chips","Food","FOOD",3/5/2018,2,0,0,1986
-317 Marketplace,"Jalapenos","Food","FOOD",3/5/2018,2,0,0,1660
-317 Marketplace,"Kids Rollups","Food","FOOD",3/5/2018,1,5,5,1326
-317 Marketplace,"Kidswich","Food","FOOD",3/5/2018,1,2.5,5,1325
-317 Marketplace,"Lay's Regular","Food","FOOD",3/5/2018,1,0,0,1982
-317 Marketplace,"Lettuce","Food","FOOD",3/5/2018,10,0,0,1630
-317 Marketplace,"Lettucewich Black Bean","Food","FOOD",3/5/2018,1,0,6,9653
-317 Marketplace,"Lettucewich Buff Chicken","Food","FOOD",3/5/2018,1,6,6,9552
-317 Marketplace,"Lettucewich Chicken","Food","FOOD",3/5/2018,2,12,12,9551
-317 Marketplace,"Lettucewich Chicken - REG-Sliced Egg*","Food","FOOD",3/5/2018,2,2,2,0
-317 Marketplace,"Lettucewich Turkey","Food","FOOD",3/5/2018,2,12,12,9601
-317 Marketplace,"Lettucewich Turkey - REG-Avocado*","Food","FOOD",3/5/2018,1,1,1,0
-317 Marketplace,"Light Mayo","Food","FOOD",3/5/2018,1,0,0,1545
-317 Marketplace,"LRG Black Bean Patty","Food","FOOD",3/5/2018,1,8.5,8.5,70
-317 Marketplace,"LRG Buffalo Chicken","Food","FOOD",3/5/2018,1,8.5,8.5,47
-317 Marketplace,"LRG Chicken Cordon Bleu","Food","FOOD",3/5/2018,2,11,17,50
-317 Marketplace,"LRG Club","Food","FOOD",3/5/2018,1,8.5,8.5,7
-317 Marketplace,"LRG Egg Salad","Food","FOOD",3/5/2018,1,8.5,8.5,87
-317 Marketplace,"LRG French Dip","Food","FOOD",3/5/2018,1,8.5,8.5,10
-317 Marketplace,"LRG Grinder","Food","FOOD",3/5/2018,1,8.5,8.5,76
-317 Marketplace,"LRG Ham","Food","FOOD",3/5/2018,2,17,17,26
-317 Marketplace,"LRG Muffuletta","Food","FOOD",3/5/2018,1,8.5,8.5,78
-317 Marketplace,"LRG Roast Beef","Food","FOOD",3/5/2018,2,17,17,36
-317 Marketplace,"LRG Tuna Salad","Food","FOOD",3/5/2018,3,25.5,25.5,56
-317 Marketplace,"LRG Turkey","Food","FOOD",3/5/2018,3,25.5,25.5,16
-317 Marketplace,"LRG Turkey - LRG-Double Meat","Food","FOOD",3/5/2018,1,3,3,0
-317 Marketplace,"LRG Wicked","Food","FOOD",3/5/2018,4,36.04,40,99
-317 Marketplace,"LRG Wicked - LRG-Avocado","Food","FOOD",3/5/2018,1,1.5,1.5,0
-317 Marketplace,"LRG Wicked - LRG-Sliced Egg","Food","FOOD",3/5/2018,1,1.5,1.5,0
-317 Marketplace,"Marinara","Food","FOOD",3/5/2018,1,0,0,1575
-317 Marketplace,"Meatball Grinder","Food","FOOD",3/5/2018,1,7.75,7.75,382
-317 Marketplace,"Mozzarella","Food","FOOD",3/5/2018,3,0,0,1485
-317 Marketplace,"Mushrooms","Food","FOOD",3/5/2018,1,0,0,1680
-317 Marketplace,"Oil","Food","FOOD",3/5/2018,1,0,0,1695
-317 Marketplace,"Olive Salad","Food","FOOD",3/5/2018,1,0,0,1675
-317 Marketplace,"Pepper","Food","FOOD",3/5/2018,3,0,0,1720
-317 Marketplace,"Pepper Jack","Food","FOOD",3/5/2018,4,0,0,1480
-317 Marketplace,"Pesto","Food","FOOD",3/5/2018,2,0,0,1580
-317 Marketplace,"Philly Cheesesteak","Food","FOOD",3/5/2018,4,25,31,392
-317 Marketplace,"Pickles","Food","FOOD",3/5/2018,5,0,0,1640
-317 Marketplace,"Provolone","Food","FOOD",3/5/2018,8,0,0,1475
-317 Marketplace,"PX Loyalty","Retail","RETAIL",3/5/2018,34,0,0,80020
-317 Marketplace,"PX Point Accrual","Retail","RETAIL",3/5/2018,30,0,0,80010
-317 Marketplace,"Quinoa","Food","FOOD",3/5/2018,1,0,0,1663
-317 Marketplace,"Ranch","Food","FOOD",3/5/2018,3,0,0,1600
-317 Marketplace,"Red Onions","Food","FOOD",3/5/2018,2,0,0,1620
-317 Marketplace,"REG Black Bean Patty","Food","FOOD",3/5/2018,1,6,6,325
-317 Marketplace,"REG Buff Chicken","Food","FOOD",3/5/2018,11,60,66,230
-317 Marketplace,"REG Buff Chicken - REG-Double Cheese","Food","FOOD",3/5/2018,1,1,1,0
-317 Marketplace,"REG Caprese","Food","FOOD",3/5/2018,2,12,12,305
-317 Marketplace,"REG Chicken","Food","FOOD",3/5/2018,6,6,6,225
-317 Marketplace,"REG Chicken Pesto","Food","FOOD",3/5/2018,2,12,12,365
-317 Marketplace,"REG Club","Food","FOOD",3/5/2018,4,18,18,430
-317 Marketplace,"REG Corned Beef","Food","FOOD",3/5/2018,2,12,12,190
-317 Marketplace,"REG French Dip","Food","FOOD",3/5/2018,5,30,30,445
-317 Marketplace,"REG Grinder","Food","FOOD",3/5/2018,10,36,42,345
-317 Marketplace,"REG Grinder - REG-Double Meat","Food","FOOD",3/5/2018,1,2,2,0
-317 Marketplace,"REG Ham","Food","FOOD",3/5/2018,9,30,36,145
-317 Marketplace,"REG Meatball","Food","FOOD",3/5/2018,1,6,6,350
-317 Marketplace,"REG Meatball - REG-Double Cheese","Food","FOOD",3/5/2018,1,1,1,0
-317 Marketplace,"REG Roast Beef","Food","FOOD",3/5/2018,3,12,18,185
-317 Marketplace,"REG The Avocado","Food","FOOD",3/5/2018,3,12,12,310
-317 Marketplace,"REG The Avocado - REG-Sliced Egg","Food","FOOD",3/5/2018,1,1,1,0
-317 Marketplace,"REG Tuna Salad","Food","FOOD",3/5/2018,1,6,6,265
-317 Marketplace,"REG Turkey","Food","FOOD",3/5/2018,16,75,78,105
-317 Marketplace,"REG Turkey - REG-Avocado","Food","FOOD",3/5/2018,1,1,1,0
-317 Marketplace,"REG Turkey - REG-Bacon","Food","FOOD",3/5/2018,2,1.5,2,0
-317 Marketplace,"REG Turkey - REG-Double Cheese","Food","FOOD",3/5/2018,2,2,2,0
-317 Marketplace,"REG Wicked","Food","FOOD",3/5/2018,2,14,14,98
-317 Marketplace,"Regular Mayo","Food","FOOD",3/5/2018,2,0,0,1540
-317 Marketplace,"Roasted Red Peppers","Food","FOOD",3/5/2018,1,0,0,0
-317 Marketplace,"Salt","Food","FOOD",3/5/2018,4,0,0,1715
-317 Marketplace,"Salt & Vinegar Kettle","Food","FOOD",3/5/2018,4,0,0,1988
-317 Marketplace,"Sauerkraut","Food","FOOD",3/5/2018,2,0,0,1685
-317 Marketplace,"Sauteed Bell Peppers","Food","FOOD",3/5/2018,1,0,0,1669
-317 Marketplace,"Side Au Jus","Food","FOOD",3/5/2018,1,0,0,1603
-317 Marketplace,"SLD Crab Salad","Food","FOOD",3/5/2018,1,7,7,1090
-317 Marketplace,"SLD Surf & Turf","Food","FOOD",3/5/2018,1,7,7,1095
-317 Marketplace,"SLD Surf & Turf - REG-Avocado","Food","FOOD",3/5/2018,1,1,1,0
-317 Marketplace,"SLD Surf & Turf - REG-Double Meat","Food","FOOD",3/5/2018,1,2,2,0
-317 Marketplace,"Soda","Beverages","NA BEVERAGE",3/5/2018,1,0,0,1375
-317 Marketplace,"Spinach","Food","FOOD",3/5/2018,1,0,0,1656
-317 Marketplace,"SunChips","Food","FOOD",3/5/2018,1,0,0,1985
-317 Marketplace,"SUP French Dip","Food","FOOD",3/5/2018,1,5.75,11.75,855
-317 Marketplace,"SUP Turkey","Food","FOOD",3/5/2018,1,11.75,11.75,515
-317 Marketplace,"Superfood Wich","Food","FOOD",3/5/2018,5,38.75,38.75,2312
-317 Marketplace,"Swiss","Food","FOOD",3/5/2018,4,0,0,1465
-317 Marketplace,"The Reuben","Food","FOOD",3/5/2018,5,32.75,38.75,388
-317 Marketplace,"Tomato","Food","FOOD",3/5/2018,9,0,0,1635
-317 Marketplace,"Traditional Tray Large","Catering","CATERING",3/5/2018,1,0,95,7210
-317 Marketplace,"Turkey","Food","FOOD",3/5/2018,1,0,0,105
-317 Marketplace,"Tzatziki","Food","FOOD",3/5/2018,2,0,0,1602
-317 Marketplace,"Ultimate BLT","Food","FOOD",3/5/2018,8,62,62,411
-317 Marketplace,"Ultimate BLT - Make it a Large","Food","FOOD",3/5/2018,1,3,3,0
-317 Marketplace,"Vinegar","Food","FOOD",3/5/2018,1,0,0,1700
-317 Marketplace,"Wheat Bread","Food","FOOD",3/5/2018,6,0,0,1515
-317 Marketplace,"White Bread","Food","FOOD",3/5/2018,8,0,0,1510
-317 Marketplace,"Wrap Chicken","Food","FOOD",3/5/2018,1,3,6,9051
-317 Marketplace,"Wrap Club","Food","FOOD",3/5/2018,1,6,6,9007
-317 Marketplace,"Yellow Mustard","Food","FOOD",3/5/2018,2,0,0,1520
+317 Marketplace,"16oz Shake","Beverages","NA BEVERAGE",4/19/2018,6,17.6,19.5,342
+317 Marketplace,"16oz Shake - ---Chocolate","Beverages","NA BEVERAGE",4/19/2018,2,0,0,0
+317 Marketplace,"16oz Shake - ---Oreo","Beverages","NA BEVERAGE",4/19/2018,3,0,0,0
+317 Marketplace,"16oz Shake - ---Vanilla","Beverages","NA BEVERAGE",4/19/2018,1,0,0,0
+317 Marketplace,"22oz Fountain Drink","Beverages","NA BEVERAGE",4/19/2018,70,124.73,140,251
+317 Marketplace,"22oz Shake","Beverages","NA BEVERAGE",4/19/2018,2,8,8,343
+317 Marketplace,"22oz Shake - ---Oreo","Beverages","NA BEVERAGE",4/19/2018,1,0,0,0
+317 Marketplace,"32oz Fountain Drink","Beverages","NA BEVERAGE",4/19/2018,19,38.22,42.75,252
+317 Marketplace,"32oz Refill","Beverages","NA BEVERAGE",4/19/2018,6,9.34,12,644
+317 Marketplace,"---Baked Lay's","Sides","FOOD",4/19/2018,1,0,0,233
+317 Marketplace,"Banh Mi","EGGWICH","FOOD",4/19/2018,1,8.25,8.25,663
+317 Marketplace,"---BBQ Chips","Sides","FOOD",4/19/2018,1,0,0,237
+317 Marketplace,"---Birthday","Sides","FOOD",4/19/2018,4,0,0,648
+317 Marketplace,"Brunchwich","EGGWICH","FOOD",4/19/2018,1,8.25,8.25,661
+317 Marketplace,"---Candy Token","KIDS","FOOD",4/19/2018,1,0,0,354
+317 Marketplace,"---Carrot","Sides","FOOD",4/19/2018,1,0,0,649
+317 Marketplace,"Cheeseburgerwich","EGGWICH","FOOD",4/19/2018,5,38.92,41.25,662
+317 Marketplace,"Chips","Sides","FOOD",4/19/2018,110,125.52,137.5,20002
+317 Marketplace,"---Chips House","Sides","FOOD",4/19/2018,2,0,0,42
+317 Marketplace,"---Chocolate","Sides","FOOD",4/19/2018,4,0,0,647
+317 Marketplace,"Cobb Salad Wrap","FAVORITES","FOOD",4/19/2018,3,23.25,23.25,466
+317 Marketplace,"---Coca-Cola (Lg)","Beverages","NA BEVERAGE",4/19/2018,1,0,0,290
+317 Marketplace,"---Coca-Cola (Reg)","Beverages","NA BEVERAGE",4/19/2018,1,0,0,289
+317 Marketplace,"Coldwich","MODIFIERS","FOOD",4/19/2018,2,0,0,145
+317 Marketplace,"Courtney's Cake","Sides","FOOD",4/19/2018,9,17.13,17.55,646
+317 Marketplace,"Courtney's Cookie","Sides","FOOD",4/19/2018,15,21.11,22.5,311
+317 Marketplace,"Energy Drink","Beverages","NA BEVERAGE",4/19/2018,2,4.5,4.5,1765
+317 Marketplace,"Gyro Fav","FAVORITES","FOOD",4/19/2018,1,4.02,7.75,426
+317 Marketplace,"Ham","KIDS","FOOD",4/19/2018,2,0,0,363
+317 Marketplace,"Hotwich","MODIFIERS","FOOD",4/19/2018,17,0,0,144
+317 Marketplace,"Italian Club","FAVORITES","FOOD",4/19/2018,4,29.87,31,263
+317 Marketplace,"K Apple Slices","KIDS","FOOD",4/19/2018,1,0,0,367
+317 Marketplace,"K Carrots","KIDS","FOOD",4/19/2018,1,0,0,368
+317 Marketplace,"K Juice","KIDS","FOOD",4/19/2018,2,0,0,12
+317 Marketplace,"K Milk","KIDS","FOOD",4/19/2018,2,0,0,10
+317 Marketplace,"K PB & J","KIDS","FOOD",4/19/2018,2,10,10,3
+317 Marketplace,"Kidswich","KIDS","FOOD",4/19/2018,3,14.27,15,2
+317 Marketplace,"LRG Black Bean Patty!","VEG","FOOD",4/19/2018,4,34,34,532
+317 Marketplace,"LRG Buffalo Chicken!","Chicken","FOOD",4/19/2018,3,24.26,25.5,525
+317 Marketplace,"LRG Chicken!","Chicken","FOOD",4/19/2018,2,12.14,17,524
+317 Marketplace,"LRG Club!","CLASSIC","FOOD",4/19/2018,2,16.15,17,523
+317 Marketplace,"LRG Corned Beef!","Beef","FOOD",4/19/2018,1,6.36,8.5,540
+317 Marketplace,"LRG Double Meat","MODIFIERS","FOOD",4/19/2018,3,9,9,53
+317 Marketplace,"LRG Egg Salad!","CLASSIC","FOOD",4/19/2018,1,8.5,8.5,522
+317 Marketplace,"LRG French Dip!","Beef","FOOD",4/19/2018,3,25.5,25.5,541
+317 Marketplace,"LRG Grinder!","Italian","FOOD",4/19/2018,8,56.77,68,535
+317 Marketplace,"LRG Ham!","HAM","FOOD",4/19/2018,1,8.5,8.5,536
+317 Marketplace,"LRG Krab Salad!","Seafood","FOOD",4/19/2018,1,8.5,8.5,542
+317 Marketplace,"LRG Meatball!","Italian","FOOD",4/19/2018,1,8.5,8.5,534
+317 Marketplace,"LRG Muffuletta!","HAM","FOOD",4/19/2018,1,8.5,8.5,537
+317 Marketplace,"LRG P2-Bacon","MODIFIERS","FOOD",4/19/2018,4,6,6,51
+317 Marketplace,"LRG P2-Double Cheese","MODIFIERS","FOOD",4/19/2018,2,3,3,50
+317 Marketplace,"LRG P3-Avocado","MODIFIERS","FOOD",4/19/2018,4,6,6,52
+317 Marketplace,"LRG P3-Sliced Egg","MODIFIERS","FOOD",4/19/2018,1,1.5,1.5,54
+317 Marketplace,"LRG Pepperoni Pizzawich!","Italian","FOOD",4/19/2018,1,8.5,8.5,533
+317 Marketplace,"LRG Roast Beef!","Beef","FOOD",4/19/2018,2,17,17,539
+317 Marketplace,"LRG The Avocado","VEG","FOOD",4/19/2018,2,17,17,530
+317 Marketplace,"LRG Tuna Salad!","Seafood","FOOD",4/19/2018,1,8.5,8.5,543
+317 Marketplace,"LRG Turkey!","Turkey","FOOD",4/19/2018,9,70.17,76.5,527
+317 Marketplace,"LRG Turkeywich!","Turkey","FOOD",4/19/2018,1,3.27,8.5,528
+317 Marketplace,"LRG Wicked!","Wicked","FOOD",4/19/2018,4,32.92,40,520
+317 Marketplace,"LTW Buffalo Chicken!","Chicken","FOOD",4/19/2018,1,5.88,6,525
+317 Marketplace,"LTW Caprese!","VEG","FOOD",4/19/2018,1,6,6,531
+317 Marketplace,"LTW Roast Beef!","Beef","FOOD",4/19/2018,2,12,12,539
+317 Marketplace,"LTW Tuna Salad!","Seafood","FOOD",4/19/2018,1,6,6,543
+317 Marketplace,"LTW Wicked!","Wicked","FOOD",4/19/2018,1,8,8,520
+317 Marketplace,"Meatball Grinder","FAVORITES","FOOD",4/19/2018,2,15.5,15.5,190
+317 Marketplace,"---Oreo","Beverages","NA BEVERAGE",4/19/2018,1,0,0,201
+317 Marketplace,"P1-Buffalo","MODIFIERS","FOOD",4/19/2018,1,0,0,88
+317 Marketplace,"P1-Pesto","MODIFIERS","FOOD",4/19/2018,1,0,0,91
+317 Marketplace,"P2-Bleu Cheese","MODIFIERS","FOOD",4/19/2018,3,0,0,57
+317 Marketplace,"P2-Hot Pepper Mix","MODIFIERS","FOOD",4/19/2018,3,0,0,136
+317 Marketplace,"P2-Marinara","MODIFIERS","FOOD",4/19/2018,1,0,0,90
+317 Marketplace,"P2-Mozzarella","MODIFIERS","FOOD",4/19/2018,4,0,0,65
+317 Marketplace,"P2-Mushrooms","MODIFIERS","FOOD",4/19/2018,1,0,0,128
+317 Marketplace,"P2-Olive Salad","MODIFIERS","FOOD",4/19/2018,1,0,0,127
+317 Marketplace,"P2-Pepper Jack","MODIFIERS","FOOD",4/19/2018,2,0,0,64
+317 Marketplace,"P2-Provolone","MODIFIERS","FOOD",4/19/2018,7,0,0,63
+317 Marketplace,"P2-Side Au Jus","MODIFIERS","FOOD",4/19/2018,1,0,0,105
+317 Marketplace,"P2-Swiss","MODIFIERS","FOOD",4/19/2018,1,0,0,59
+317 Marketplace,"P3-Avocado","MODIFIERS","FOOD",4/19/2018,4,0,0,318
+317 Marketplace,"P3-Banana Peppers","MODIFIERS","FOOD",4/19/2018,3,0,0,125
+317 Marketplace,"P3-Bell Peppers","MODIFIERS","FOOD",4/19/2018,1,0,0,124
+317 Marketplace,"P3-Black Olives","MODIFIERS","FOOD",4/19/2018,4,0,0,126
+317 Marketplace,"P3-Chipotle Mayo","MODIFIERS","FOOD",4/19/2018,1,0,0,329
+317 Marketplace,"P3-Crispy Strings","MODIFIERS","FOOD",4/19/2018,1,0,0,111
+317 Marketplace,"P3-Cucumbers","MODIFIERS","FOOD",4/19/2018,1,0,0,118
+317 Marketplace,"P3-Dijon Mustard","MODIFIERS","FOOD",4/19/2018,1,0,0,73
+317 Marketplace,"P3-Hummus","MODIFIERS","FOOD",4/19/2018,1,0,0,92
+317 Marketplace,"P3-Jalapenos","MODIFIERS","FOOD",4/19/2018,2,0,0,123
+317 Marketplace,"P3-Light Mayo","MODIFIERS","FOOD",4/19/2018,2,0,0,77
+317 Marketplace,"P3-Pickles","MODIFIERS","FOOD",4/19/2018,1,0,0,115
+317 Marketplace,"P3-Ranch","MODIFIERS","FOOD",4/19/2018,5,0,0,102
+317 Marketplace,"P3-Red Onions","MODIFIERS","FOOD",4/19/2018,3,0,0,110
+317 Marketplace,"P3-Regular Mayo","MODIFIERS","FOOD",4/19/2018,3,0,0,76
+317 Marketplace,"P3-Sliced Egg*","MODIFIERS","FOOD",4/19/2018,3,0,0,628
+317 Marketplace,"P3-Yellow Mustard","MODIFIERS","FOOD",4/19/2018,2,0,0,72
+317 Marketplace,"P4-Garlic","MODIFIERS","FOOD",4/19/2018,3,0,0,142
+317 Marketplace,"P4-Lettuce","MODIFIERS","FOOD",4/19/2018,9,0,0,112
+317 Marketplace,"P4-Oregano","MODIFIERS","FOOD",4/19/2018,3,0,0,139
+317 Marketplace,"P4-Pepper","MODIFIERS","FOOD",4/19/2018,4,0,0,141
+317 Marketplace,"P4-Salt","MODIFIERS","FOOD",4/19/2018,3,0,0,140
+317 Marketplace,"P4-Spinach","MODIFIERS","FOOD",4/19/2018,2,0,0,120
+317 Marketplace,"P4-Tomato","MODIFIERS","FOOD",4/19/2018,12,0,0,114
+317 Marketplace,"Philly Cheesesteak","FAVORITES","FOOD",4/19/2018,9,63.57,69.75,186
+317 Marketplace,"REG Black Bean Patty!","VEG","FOOD",4/19/2018,9,48.36,54,532
+317 Marketplace,"REG Buffalo Chicken!","Chicken","FOOD",4/19/2018,6,28.13,36,525
+317 Marketplace,"REG Caprese!","VEG","FOOD",4/19/2018,3,18,18,531
+317 Marketplace,"REG Chicken Cordon Bleu!","HAM","FOOD",4/19/2018,1,3.85,6,538
+317 Marketplace,"REG Chicken Pesto!","Chicken","FOOD",4/19/2018,4,24,24,526
+317 Marketplace,"REG Chicken Salad!","CLASSIC","FOOD",4/19/2018,1,6,6,521
+317 Marketplace,"REG Chicken!","Chicken","FOOD",4/19/2018,9,48,54,524
+317 Marketplace,"REG Club!","CLASSIC","FOOD",4/19/2018,10,52.23,60,523
+317 Marketplace,"REG Corned Beef!","Beef","FOOD",4/19/2018,2,8.79,12,540
+317 Marketplace,"REG Double Meat","MODIFIERS","FOOD",4/19/2018,2,4,4,53
+317 Marketplace,"REG Egg Salad!","CLASSIC","FOOD",4/19/2018,1,6,6,522
+317 Marketplace,"REG French Dip!","Beef","FOOD",4/19/2018,4,22.22,24,541
+317 Marketplace,"REG Grinder!","Italian","FOOD",4/19/2018,5,28.11,30,535
+317 Marketplace,"REG Ham!","HAM","FOOD",4/19/2018,8,39.08,48,536
+317 Marketplace,"REG Krab Salad!","Seafood","FOOD",4/19/2018,1,0,6,542
+317 Marketplace,"REG Meatball!","Italian","FOOD",4/19/2018,3,18,18,534
+317 Marketplace,"REG P2-Bacon","MODIFIERS","FOOD",4/19/2018,7,7,7,51
+317 Marketplace,"REG P2-Double Cheese","MODIFIERS","FOOD",4/19/2018,2,2,2,50
+317 Marketplace,"REG P3-Avocado","MODIFIERS","FOOD",4/19/2018,7,7,7,52
+317 Marketplace,"REG P3-Sliced Egg","MODIFIERS","FOOD",4/19/2018,1,1,1,54
+317 Marketplace,"REG Pepperoni Pizzawich!","Italian","FOOD",4/19/2018,1,6,6,533
+317 Marketplace,"REG Roast Beef!","Beef","FOOD",4/19/2018,5,26.69,30,539
+317 Marketplace,"REG Surf & Turf!","Seafood","FOOD",4/19/2018,2,12,12,544
+317 Marketplace,"REG The Avocado","VEG","FOOD",4/19/2018,3,18,18,530
+317 Marketplace,"REG Tuna Salad!","Seafood","FOOD",4/19/2018,3,18,18,543
+317 Marketplace,"REG Turkey!","Turkey","FOOD",4/19/2018,15,73.7,90,527
+317 Marketplace,"REG Turkeywich!","Turkey","FOOD",4/19/2018,2,12,12,528
+317 Marketplace,"REG Wicked!","Wicked","FOOD",4/19/2018,7,38.58,49,520
+317 Marketplace,"---Salt & Vinegar","Sides","FOOD",4/19/2018,1,0,0,238
+317 Marketplace,"SUP Club!","CLASSIC","FOOD",4/19/2018,1,11.75,11.75,523
+317 Marketplace,"SUP Corned Beef!","Beef","FOOD",4/19/2018,1,11.75,11.75,540
+317 Marketplace,"SUP Double Meat","MODIFIERS","FOOD",4/19/2018,1,4,4,53
+317 Marketplace,"SUP Krab Salad!","Seafood","FOOD",4/19/2018,1,11.75,11.75,542
+317 Marketplace,"SUP P2-Bacon","MODIFIERS","FOOD",4/19/2018,1,2,2,51
+317 Marketplace,"SUP P2-Double Cheese","MODIFIERS","FOOD",4/19/2018,1,2,2,50
+317 Marketplace,"SUP P3-Avocado","MODIFIERS","FOOD",4/19/2018,1,2,2,52
+317 Marketplace,"SUP Surf & Turf!","Seafood","FOOD",4/19/2018,1,11.75,11.75,544
+317 Marketplace,"SUP Turkey!","Turkey","FOOD",4/19/2018,1,11.75,11.75,527
+317 Marketplace,"SUP Wicked!","Wicked","FOOD",4/19/2018,3,40.5,40.5,520
+317 Marketplace,"Superfood Wich","FAVORITES","FOOD",4/19/2018,5,34.27,38.75,312
+317 Marketplace,"The Reuben","FAVORITES","FOOD",4/19/2018,4,28.7,31,271
+317 Marketplace,"Turkey","KIDS","FOOD",4/19/2018,1,0,0,365
+317 Marketplace,"Ultimate BLT","FAVORITES","FOOD",4/19/2018,9,68.45,69.75,248
+317 Marketplace,"Vitamin Water","Beverages","NA BEVERAGE",4/19/2018,1,2.25,2.25,1785
+317 Marketplace,"Wheat Bread","MODIFIERS","FOOD",4/19/2018,7,0,0,70
+317 Marketplace,"White Bread","MODIFIERS","FOOD",4/19/2018,8,0,0,69
+317 Marketplace,"WRP Black Bean Patty!","VEG","FOOD",4/19/2018,1,6,6,532
+317 Marketplace,"WRP Chicken!","Chicken","FOOD",4/19/2018,2,12,12,524
+317 Marketplace,"WRP P3-Avocado","MODIFIERS","FOOD",4/19/2018,2,2,2,52
+317 Marketplace,"WRP P3-Sliced Egg","MODIFIERS","FOOD",4/19/2018,1,1,1,54
+317 Marketplace,"WRP Turkey!","Turkey","FOOD",4/19/2018,1,6,6,527
+317 Marketplace,"Yellow Cheese","MODIFIERS","FOOD",4/19/2018,1,0,0,67

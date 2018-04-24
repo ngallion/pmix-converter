@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block content %}
+
+
+<form method='post' action="/upload-file" enctype=multipart/form-data>
+    <div class="form-group">
+    <label for="fileupload"> Select a file to upload</label>
+    <input type="file" name="fileupload" value="fileupload" id="fileupload">
+    <input type="submit" value="Convert">
+</div>
+</form>
+
+{% endblock %}

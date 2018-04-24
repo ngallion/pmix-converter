@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="container">
+<table class="table-striped">
+    <tr>
+        <td>
+            <h4>Product</h4>
+        </td>
+        <td>
+            <h4>Quantity</h4>
+        </td>
+    </tr>
+
+    {% for product in product_converted %}
+    <tr>
+        <td>{{product[0]}}</td>
+        <td>{{product[1]}}</td>
+    </tr>
+    {% endfor %}
+</table>
+
+<h3>Product not converted:</h3>
+<ul>
+{% for product in product_not_converted %}
+    <li>{{product}}</li>
+{% endfor %}
+</ul>
+</div>
+{% endblock %}

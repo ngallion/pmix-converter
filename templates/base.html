@@ -4,6 +4,8 @@
         <title>{{title}}</title>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
         <link rel="stylesheet" href="{{url_for('static',filename='styles/main.css')}}">
         <style>
             .error{
@@ -15,15 +17,16 @@
         <div class="logo">
             <img src="{{url_for('static',filename='images/wwlogo.jpg')}}" class="center">
         </div>
-        <nav>
-        </nav>
-        {% with messages = get_flashed_messages(with_categories=True) %}
-        <ul>
-        {% for category,message in messages %}
-        <li class="{{category}}">{{message}}</li>
-        {% endfor %}
-        </ul>
-        {% endwith %}
+        <div class="container-fluid">
+            <nav class="navbar navbar-yellow">
+                <ul class="nav navbar-nav">
+                    <li><a href="/pmix-viewer">To Pmix</a></li>
+                    <li><a href="/upload">Upload Pmix</a></li>
+                </ul>
+            </nav>
+        </div>
+        
+        
         {% block content %}
         {% endblock %}
 

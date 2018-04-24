@@ -19,3 +19,12 @@ body{
     margin-right: auto;
     width: 50%;
 }
+.right{
+    display: block;
+    margin-right: 0;
+    margin-left: auto;
+    text-align: right;
+}
+.column-names{
+    width: 50%;
+}
