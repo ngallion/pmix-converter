@@ -17,6 +17,8 @@
             <th>{{quantity}}</th>
             <th>
                 <form action='/delete-ingredient' method='post'>
+                    <input type="hidden" name="ingredient_name"value="{{ingredient}}" />
+                    <input type="hidden" name="recipe_name" value="{{recipe}}" />
                     <input type="submit" value="Delete ingredient" />
                 </form>
             </th>

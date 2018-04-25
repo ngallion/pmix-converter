@@ -12,6 +12,7 @@ app = Flask(__name__)
 app.config['DEBUG'] = True
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://pmix-converter:whichwich@localhost:8889/pmix-converter'
+# 'mysql+pymysql://ngallion:ndg0000086192@ngallion.mysql.pythonanywhere-services.com/pmix-converter'
 app.config['SQLALCHEMY_ECHO'] = True
 db = SQLAlchemy(app)
 app.secret_key = "axbxcd98"
@@ -57,6 +58,21 @@ class Ingredient(db.Model):
     def __init__(self, name):
         self.name = name
 
+product_list = []
+
+@app.context_processor
+def utility_processor():
+    def is_recipe(recipe_name):
+        recipe = Recipe.query.filter_by(name=recipe_name).first()
+        if recipe:
+            association = Association.query.filter_by(recipe_id=recipe.id).first()
+            if association:
+                return True
+            else:
+                return False
+    return dict(is_recipe=is_recipe)
+    
+
 @app.route('/')
 def index():
     return redirect('/upload')
@@ -68,11 +84,12 @@ def upload():
 @app.route('/upload-file', methods=['POST','GET'])
 def upload_file():
     if request.method == "POST":
+        global product_list
         file = request.files['fileupload']
         filename = secure_filename(file.filename)
         file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
 
-        product_list= []
+        product_list = []
 
         pmix_to_list('./uploads/' + filename)
         flash("Pmix uploaded")
@@ -133,7 +150,30 @@ def view_ingredients():
         return render_template('view-ingredients.html', recipe_name="No ingredients added :(")
 
 
-        
+@app.route('/delete-ingredient', methods=['POST','GET'])
+def delete_ingredient():
+    ingredient_name = request.form["ingredient_name"]
+    recipe_name = request.form["recipe_name"]
+
+    ingredient = Ingredient.query.filter_by(name=ingredient_name).first()
+    recipe = Recipe.query.filter_by(name=recipe_name).first()
+
+    association = Association.query.filter_by(ingredient_id=ingredient.id,
+        recipe_id=recipe.id).first()
+
+    db.session.delete(association)
+    db.session.commit()
+
+    ingredient_list = []
+
+    association_list = Association.query.filter_by(recipe_id=recipe.id).all()
+    for association in association_list:
+        ingredient = Ingredient.query.filter_by(id=association.ingredient_id).first()
+        ingredient_list.append((ingredient.name, association.quantity))
+
+    flash("Recipe deleted")
+
+    return render_template('view-ingredients.html', recipe=recipe_name, ingredient_list=ingredient_list)
 
 @app.route('/view-product', methods=['POST','GET'])
 def view_product():
@@ -195,8 +235,6 @@ def add_ingredient():
     else:
         return render_template('pmix-viewer.html', product_list=product_list)
 
-product_list = []
-
 
 def pmix_to_list(pmix):
     with open(pmix, 'r') as csv_file:
@@ -206,7 +244,6 @@ def pmix_to_list(pmix):
 
         for line in csv_reader:
             product_list.append((line[1], line[5]))
-
 
 if __name__ == '__main__':
     app.run()

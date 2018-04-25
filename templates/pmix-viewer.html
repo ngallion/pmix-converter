@@ -45,7 +45,12 @@
     </tr>
     {% for product in product_list %}
     <tr>
-        <th><a href="/view-ingredients?recipe={{product[0]}}">{{product[0]}}</a></th>
+        
+        {% if is_recipe(product[0]) %}
+        <th><a href="/view-ingredients?recipe={{product[0]}}" style="color: red">{{product[0]}}</a></th>
+        {% else %}
+        <th>{{product[0]}}</th>
+        {% endif %}
         <th>{{product[1]}}</th>
         <th>
             <form action='/add-ingredient' method='post'>
