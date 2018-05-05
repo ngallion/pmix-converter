@@ -3,28 +3,54 @@
 <div class="container">
 <table class="table table-hover">
     
-    <tr>
+    <thead>
         <td>
             <h3>Product</h3>
         </td>
         <td>
             <h3>Quantity</h3>
         </td>
-    </tr>
-
+        <td></td>
+    </thead>
     {% for product in product_converted %}
+    {% if product[1] != 0 %}
     <tr>
         <td>{{product[0]}}</td>
         <td>{{product[1]}}</td>
+        <td><button data-toggle="collapse" data-target="#{{remove_spaces(product[0])}}-recipes">View Recipes</button>
+            <div class="collapse" id="{{remove_spaces(product[0])}}-recipes">
+            {% set recipe_list = get_recipes(product[0]) %}
+            <ul>
+            {% for recipe, quantity in recipe_list %}
+                <li>{{recipe}} / {{quantity}}</li>
+            {% endfor %}
+            </ul>
+            </div>
+        </td>
     </tr>
+    {% endif %}
     {% endfor %}
 </table>
-
-<h3>Product not converted:</h3>
-<ul>
-{% for product in product_not_converted %}
-    <li>{{product}}</li>
-{% endfor %}
-</ul>
+<div class="col-md-6"></div>
+<div id="product-not-converted" class="col-md-6">
+        <h3>Product not converted:</h3>
+    <input type="text" class="form-control" id="search" name="search" placeholder="Search">
+    <ul class="list-group">
+    {% for product in product_not_converted %}
+        <li class="list-group-item">{{product}}</li>
+    {% endfor %}
+    </ul>
 </div>
+
+<script>
+    $(document).ready(function(){
+        $("#search").on("keyup", function() {
+            var value = $(this).val().toLowerCase();
+                $("#product-not-converted li").filter(function() {
+                    $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+                });
+            });
+        });
+</script> 
+
 {% endblock %}

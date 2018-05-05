@@ -25,15 +25,15 @@
     </div>
     <br />
 <table id="pmix-table" class="table">
-    <tr>
-        <th>Product</th>
-        <th>Quantity</th>
+    <thead>
+        <th><h4>Product</h4></th>
+        <th><h4>Quantity</h4></th>
         <th>
-            <th>Add Ingredient</th>
-            <th>Add Quantity</th>
+            <th><h4>Add Ingredient</h4></th>
+            <th><h4>Add Quantity</h4></th>
             <th></th>
         </th>
-    </tr>
+    </thead>
     <tr>
             {% with messages = get_flashed_messages(with_categories=True) %}
         
@@ -44,7 +44,7 @@
             {% endwith %}
     </tr>
     {% for product in product_list %}
-    <tr>
+    <tr class="table-row">
         
         {% if is_recipe(product[0]) %}
         <th><a href="/view-ingredients?recipe={{product[0]}}" style="color: red">{{product[0]}}</a></th>
@@ -70,14 +70,14 @@
 </table>
 </div>
 <script>
-        $(document).ready(function(){
-          $("#search").on("keyup", function() {
+    $(document).ready(function(){
+        $("#search").on("keyup", function() {
             var value = $(this).val().toLowerCase();
-            $("#pmix-table tr").filter(function() {
-              $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+                $("#pmix-table .table-row").filter(function() {
+                    $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+                });
             });
-          });
         });
-        </script> 
+</script> 
 
 {% endblock %}

@@ -70,7 +70,22 @@ def utility_processor():
                 return True
             else:
                 return False
-    return dict(is_recipe=is_recipe)
+    
+
+    def get_recipes(ingredient_name):
+        ingredient = Ingredient.query.filter_by(name=ingredient_name).first()
+        if ingredient:
+            associations = Association.query.filter_by(ingredient_id=ingredient.id).all()
+            recipes = []
+            for association in associations:
+                recipe = Recipe.query.filter_by(id=association.recipe_id).first()
+                recipes.append((recipe.name, association.quantity))
+            
+            return recipes
+    
+    def remove_spaces(string):
+        return string.replace(" ", "")
+    return dict(is_recipe=is_recipe, get_recipes=get_recipes, remove_spaces=remove_spaces)
     
 
 @app.route('/')
@@ -92,6 +107,21 @@ def upload_file():
         product_list = []
 
         pmix_to_list('./uploads/' + filename)
+        flash("Pmix uploaded")
+
+        return redirect('/pmix-viewer')
+
+    else:
+        flash("didnt work")
+        return redirect('/')
+
+@app.route('/upload-sample', methods=['POST','GET'])
+def upload_sample():
+    if request.method == "POST":
+        global product_list
+        product_list = []
+
+        pmix_to_list('./static/sample-pmix.csv') #url_for('static',filename='styles/main.css'
         flash("Pmix uploaded")
 
         return redirect('/pmix-viewer')
