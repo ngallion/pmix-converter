@@ -1,12 +1,21 @@
 {% extends "base.html" %}
 {% block content %}
-
+<div class="container">
 <div class="col-md-4">
 <form class="form-inline" method='post' action="/upload-file" enctype=multipart/form-data>
     <div class="form-group">
-        <label for="fileupload"> Select a file to upload:</label>
-        <input class="form-control" type="file" name="fileupload" value="fileupload" id="fileupload" />
+        <div class="btn btn-default">
+        <label for="fileupload"> CLICK HERE to select a file
+        
+        <input class="form-control" type="file" name="fileupload" value="fileupload" id="fileupload" style="display: none" onchange="$('#upload-file-info').html(this.files[0].name)"/>
+        </label>
+        <span class='label label-default' id="upload-file-info"></span>
+        </div>
+        
         <button class="btn btn-primary" type="submit" value="Convert">Convert to Pmix</button>
+        
+        
+        
     </div>
 </form>
 </div>
@@ -15,9 +24,9 @@
     <form class="form-inline" method='post' action="/upload-sample" enctype=multipart/form-data>
         <div class="form-group">
             <label for="fileupload">View sample pmix:</label>
-            <button class="btn btn-primary" type="submit" value="Convert">Convert to Pmix</button>
+            <button class="btn btn-success" type="submit" value="Convert">Convert to Pmix</button>
         </div>
     </form>
 </div>
-
+</div>
 {% endblock %}

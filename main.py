@@ -1,67 +1,18 @@
 import csv
 import os
-from flask import Flask, request, redirect, render_template, session, flash
-from flask_sqlalchemy import SQLAlchemy
+from flask import request, redirect, render_template, session, flash
+from app import app, db
+from models import Recipe, Association, Ingredient
 from werkzeug.utils import secure_filename
 
-UPLOAD_FOLDER = './uploads'
-ALLOWED_EXTENSIONS = set(['.csv'])
-
-
-app = Flask(__name__)
-app.config['DEBUG'] = True
-app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
-app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://pmix-converter:whichwich@localhost:8889/pmix-converter'
-# 'mysql+pymysql://ngallion:ndg0000086192@ngallion.mysql.pythonanywhere-services.com/pmix-converter'
-app.config['SQLALCHEMY_ECHO'] = True
-db = SQLAlchemy(app)
-app.secret_key = "axbxcd98"
-
-# class User(db.Model):
-    
-#     id = db.Column(db.Integer, primary_key=True)
-#     username = db.Column(db.String(120), unique=True)
-#     password = db.Column(db.String(120))
-
-#     def __init__(self, username, password):
-#         self.username = username
-#         self.password = password
-
-class Association(db.Model):
-    __tablename__ = 'association'
-    ingredient_id = db.Column(db.Integer, db.ForeignKey('ingredient.id'), primary_key=True)
-    recipe_id = db.Column(db.Integer, db.ForeignKey('recipe.id'), primary_key=True)
-    quantity = db.Column(db.Float)
-    recipe = db.relationship("Recipe")
-    ingredient = db.relationship("Ingredient")
-
-    def __init__(self,ingredient_id,recipe_id,quantity):
-        self.ingredient_id = ingredient_id
-        self.recipe_id = recipe_id
-        self.quantity = quantity
-
-class Recipe(db.Model):
-    __tablename__='recipe'
-    id = db.Column(db.Integer, primary_key=True)
-    name = db.Column(db.String(120), unique=True)
-    ingredients = db.relationship("Association")
-
-    def __init__(self, name):
-        self.name = name
-
-class Ingredient(db.Model):
-    __tablename__='ingredient'
-    id = db.Column(db.Integer, primary_key=True)
-    name = db.Column(db.String(120), unique=True)
-    recipes = db.relationship("Association")
-
-    def __init__(self, name):
-        self.name = name
 
 product_list = []
 
+
+#Allows templates to run functions
 @app.context_processor
 def utility_processor():
+    #Check if name is in recipe table, returns boolean
     def is_recipe(recipe_name):
         recipe = Recipe.query.filter_by(name=recipe_name).first()
         if recipe:
@@ -71,7 +22,7 @@ def utility_processor():
             else:
                 return False
     
-
+    #Gets collection of recipes given an ingredient
     def get_recipes(ingredient_name):
         ingredient = Ingredient.query.filter_by(name=ingredient_name).first()
         if ingredient:
@@ -82,7 +33,7 @@ def utility_processor():
                 recipes.append((recipe.name, association.quantity))
             
             return recipes
-    
+    #removes spaces from string to allow unique html elements
     def remove_spaces(string):
         return string.replace(" ", "")
     return dict(is_recipe=is_recipe, get_recipes=get_recipes, remove_spaces=remove_spaces)
@@ -96,8 +47,10 @@ def index():
 def upload():
     return render_template('upload.html')
 
+#handles requests from upload file
 @app.route('/upload-file', methods=['POST','GET'])
 def upload_file():
+    #saves an uploaded CSV file to uploads directory, then converts to product list
     if request.method == "POST":
         global product_list
         file = request.files['fileupload']
@@ -115,6 +68,7 @@ def upload_file():
         flash("didnt work")
         return redirect('/')
 
+#uploads preset sample, converts to list
 @app.route('/upload-sample', methods=['POST','GET'])
 def upload_sample():
     if request.method == "POST":
@@ -137,13 +91,15 @@ def pmix_viewer():
 
     return render_template('pmix-viewer.html',product_list=product_list)
 
+#handles requests from /search
 @app.route('/search', methods=['POST'])
 def search():
     search = request.form['search']
-
     
     filtered_product_list = []
     
+    #generates new product list filtered by search terms
+
     for product in product_list:
         lowercase_name = product[0].lower()
         if lowercase_name.find(search.lower()) != -1:
@@ -152,13 +108,17 @@ def search():
     session['search'] = filtered_product_list
 
     return render_template('pmix-viewer.html',product_list=filtered_product_list)
- 
+
+#handles requests to /view-ingredients
 @app.route('/view-ingredients')
 def view_ingredients():
+
+    #gets recipe objects
     recipe_name = request.args.get('recipe')
 
     recipe = Recipe.query.filter_by(name=recipe_name).first()
 
+    #redirects and displays message if no ingredients are added
     if not recipe:
         flash("Recipe does not contain any ingredients", category='error')
         if session['search']:
@@ -168,6 +128,7 @@ def view_ingredients():
 
     ingredient_list = []
 
+    #checks association table to get ingredients that are in a given recipe
     association_list = Association.query.filter_by(recipe_id=recipe.id).all()
 
     for association in association_list:
@@ -180,6 +141,7 @@ def view_ingredients():
         return render_template('view-ingredients.html', recipe_name="No ingredients added :(")
 
 
+#handles requests from /delete-ingredient, allows deletion of ingredients from recipes
 @app.route('/delete-ingredient', methods=['POST','GET'])
 def delete_ingredient():
     ingredient_name = request.form["ingredient_name"]
@@ -191,6 +153,7 @@ def delete_ingredient():
     association = Association.query.filter_by(ingredient_id=ingredient.id,
         recipe_id=recipe.id).first()
 
+    #deletes ingredient from association table, but leaves ingredient on ingredient table
     db.session.delete(association)
     db.session.commit()
 
@@ -205,14 +168,20 @@ def delete_ingredient():
 
     return render_template('view-ingredients.html', recipe=recipe_name, ingredient_list=ingredient_list)
 
+#handles product conversion request--where the magic happens
 @app.route('/view-product', methods=['POST','GET'])
 def view_product():
+    #create lists of product, and list of recipes not used
     product_not_converted = []
     product_converted = []
+
+    #gets all ingredients, adds to product converted
     ingredient_list = Ingredient.query.all()
     for ingredient in ingredient_list:
         product_converted.append([ingredient.name, 0])
 
+    #checks if ingredient has recipe, if not, adds to product not converted
+    #if it has recipe, multiplies pmix quantity x recipe quantity to obtain product quantity and adds to list
     for product,quantity in product_list:
         recipe = Recipe.query.filter_by(name=product).first()
         if not recipe:
@@ -225,20 +194,26 @@ def view_product():
                     if item[0] == ingredient.name:
                         item[1] += (association.quantity * float(quantity))
     
+    #cuts decimals short to prevent float errors from displaying
+    for item in product_converted:
+        item[1]= format(item[1], '.2f')
+
+
     return render_template('view-product.html', product_converted=product_converted, product_not_converted=product_not_converted)
 
-
+#handles requests to add ingredients
 @app.route('/add-ingredient', methods=['POST'])
 def add_ingredient():
     ingredient = request.form['ingredient'].lower()
     recipe = request.form['recipe'].lower()
     
+    #checks if recipe exists, if not, adds to db
     existing_recipe = Recipe.query.filter_by(name=recipe).first()
     if not existing_recipe:
         new_recipe = Recipe(recipe)
         db.session.add(new_recipe)
     
-
+    #checks if ingredient exists, if not, adds to db
     existing_ingredient = Ingredient.query.filter_by(name=ingredient).first()
     if not existing_ingredient:
         new_ingredient = Ingredient(ingredient)
@@ -246,12 +221,15 @@ def add_ingredient():
 
     db.session.commit()
 
+    #gets quantity from form, and corresponding recipe and ingredient ids
     quantity = request.form['quantity']
     ingredient_id = Ingredient.query.filter_by(name=ingredient).first().id
     recipe_id = Recipe.query.filter_by(name=recipe).first().id
 
+    #grabs potential preexisting association
     existing_association = Association.query.filter_by(ingredient_id=ingredient_id,recipe_id=recipe_id).first()
     
+    #adds recipe to association table if recipe does not already exist
     if not existing_association:
         new_association = Association(ingredient_id,recipe_id,quantity)
         db.session.add(new_association)
@@ -260,12 +238,14 @@ def add_ingredient():
     else:
         flash("recipe already contains this ingredient")
 
+    #returns to pmix view--if coming from searched list, returns to same filtered list
     if session['search'] != []:
         return render_template('pmix-viewer.html', product_list=session['search'])
     else:
         return render_template('pmix-viewer.html', product_list=product_list)
 
 
+#uses csv reader to read in csv file and convert to list based on predetermined columns
 def pmix_to_list(pmix):
     with open(pmix, 'r') as csv_file:
         csv_reader = csv.reader(csv_file)

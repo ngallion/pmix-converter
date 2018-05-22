@@ -13,7 +13,7 @@
         <td></td>
     </thead>
     {% for product in product_converted %}
-    {% if product[1] != 0 %}
+    {% if product[1] != 0.00 %}
     <tr>
         <td>{{product[0]}}</td>
         <td>{{product[1]}}</td>
@@ -31,8 +31,8 @@
     {% endif %}
     {% endfor %}
 </table>
-<div class="col-md-6"></div>
-<div id="product-not-converted" class="col-md-6">
+<div class="col-md-1"></div>
+<div id="product-not-converted" class="col-md-10">
         <h3>Product not converted:</h3>
     <input type="text" class="form-control" id="search" name="search" placeholder="Search">
     <ul class="list-group">
@@ -41,7 +41,7 @@
     {% endfor %}
     </ul>
 </div>
-
+<div class="col-md-1"></div>
 <script>
     $(document).ready(function(){
         $("#search").on("keyup", function() {
