@@ -19,7 +19,7 @@
         <td>{{product[1]}}</td>
         <td><button data-toggle="collapse" data-target="#{{remove_spaces(product[0])}}-recipes">View Recipes</button>
             <div class="collapse" id="{{remove_spaces(product[0])}}-recipes">
-            {% set recipe_list = get_recipes(product[0]) %}
+            {% set recipe_list = get_recipes(product[0], username) %}
             <ul>
             {% for recipe, quantity in recipe_list %}
                 <li>{{recipe}} / {{quantity}}</li>

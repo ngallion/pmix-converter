@@ -13,4 +13,5 @@ app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://pmix-converter:whichwic
 # 'mysql+pymysql://ngallion:ndg0000086192@ngallion.mysql.pythonanywhere-services.com/pmix-converter'
 app.config['SQLALCHEMY_ECHO'] = True
 db = SQLAlchemy(app)
-app.secret_key = "axbxcd98"
+
+

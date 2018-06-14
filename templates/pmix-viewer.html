@@ -46,7 +46,7 @@
     {% for product in product_list %}
     <tr class="table-row">
         
-        {% if is_recipe(product[0]) %}
+        {% if is_recipe(product[0], username) %}
         <th><a href="/view-ingredients?recipe={{product[0]}}" style="color: red">{{product[0]}}</a></th>
         {% else %}
         <th>{{product[0]}}</th>
